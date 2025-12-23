@@ -1,0 +1,18 @@
+[
+  {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "genero": "Agrosoma",
+    "especie": "Agrosoma pulchella",
+    "autor": "Young, 1977",
+    "distribucion": "Colombia"
+  },
+  {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Proconiini",
+    "genero": "Oncometopia",
+    "especie": "Oncometopia facialis",
+    "autor": "Signoret, 1854",
+    "distribucion": "América Latina"
+  }
+]
