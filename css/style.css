@@ -1,1 +1,42 @@
+body {
+  margin: 0;
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  background-color: #d6d97a;
+}
+
+.hero {
+  background: #bdbb6b;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.hero-text {
+  background: rgba(255, 255, 255, 0.8);
+  display: inline-block;
+  padding: 20px 40px;
+  border-radius: 15px;
+}
+
+.menu {
+  display: flex;
+  flex-direction: column;
+  max-width: 280px;
+  margin: 30px 0;
+}
+
+.boton {
+  background: #c6c37a;
+  padding: 15px;
+  margin: 8px 0;
+  border-radius: 20px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+  box-shadow: 3px 3px 6px rgba(0,0,0,0.3);
+}
+
+.boton:hover {
+  background: #b5b261;
+  transform: translateX(5px);
+}
 
