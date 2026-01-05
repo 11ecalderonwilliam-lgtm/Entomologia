@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Aguahua</title>
+<link rel="stylesheet" href="../css/style.css">
+</head>
+
+<body>
+
+<a href="../index.html" class="boton" style="margin:20px; display:inline-block;">
+  ← Volver al inicio
+</a>
+
+<h1><em>Aguahua</em></h1>
+
+<p>
+<strong>Subfamilia:</strong> Cicadellinae<br>
+<strong>Tribu:</strong> Cicadellini
+</p>
+
+<table class="tabla-especies">
+<tr>
+  <th>N°</th>
+  <th>Especie</th>
+  <th>Autor / Año</th>
+  <th>Imágenes</th>
+</tr>
+
+<tr>
+  <td>1</td>
+  <td><em>Aguahua salamandra</em></td>
+  <td>Medler, 1960</td>
+  <td>
+    <a href="../imagenes/especies/acrulogonia_punctata.jpg">Imagen</a>
+  </td>
+</tr>
+
+</table>
+
+
+</body>
+</html>
