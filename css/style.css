@@ -175,3 +175,26 @@ h2 {
 h2 em {
   font-style: italic;
 }
+.volver-contenedor {
+  display: flex;
+  justify-content: center;
+  margin: 60px 0 40px 0;
+}
+
+.boton-volver {
+  background: linear-gradient(135deg, #7da87b, #5f8f5b);
+  color: #ffffff;
+  text-decoration: none;
+  padding: 14px 34px;
+  border-radius: 30px;
+  font-weight: bold;
+  font-size: 16px;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+}
+
+.boton-volver:hover {
+  background: linear-gradient(135deg, #6a9967, #4f7e4c);
+  transform: translateY(-3px);
+  box-shadow: 0 12px 22px rgba(0, 0, 0, 0.2);
+}
