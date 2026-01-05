@@ -136,3 +136,32 @@ img {
   font-size: 16px;
   line-height: 1.6;
 }
+/* =========================
+   DESCRIPCIONES ESTILO TARJETA
+   ========================= */
+
+.descripcion-subfamilia,
+.descripcion-tribu {
+  max-width: 900px;
+  margin: 25px auto;
+  background: linear-gradient(145deg, #f4f9ef, #e6f0dd);
+  padding: 22px 30px;
+  border-radius: 18px;
+  font-size: 16px;
+  line-height: 1.7;
+  color: #2f3e2f;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
+  position: relative;
+}
+
+.descripcion-subfamilia::before,
+.descripcion-tribu::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 20px;
+  width: 60px;
+  height: 4px;
+  background: #7da87b;
+  border-radius: 4px;
+}
