@@ -125,6 +125,12 @@ img {
 
 .tabla-especies tr:nth-child(even) {
   background-color: #dfead7;
+}
+
+/* =========================
+   DESCRIPCIÓN SUBFAMILIA
+   ========================= */
+
 .descripcion-subfamilia {
   max-width: 950px;
   margin: 30px auto;
@@ -137,6 +143,27 @@ img {
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.10);
   position: relative;
 }
+/* =========================
+   DESCRIPCIÓN TRIBU
+   ========================= */
+
+.descripcion-tribu {
+  max-width: 900px;
+  margin: 25px auto;
+  background: #eef5e6;
+  padding: 22px 30px;
+  border-left: 6px solid #7da87b;
+  border-radius: 18px;
+  font-size: 15.8px;
+  line-height: 1.7;
+  color: #2f3e2f;
+  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
+}
+
+
+/* =========================
+   BOTÓN VOLVER
+   ========================= */
 
 .volver-wrapper {
   display: flex;
