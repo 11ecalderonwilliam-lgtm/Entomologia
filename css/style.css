@@ -193,8 +193,30 @@ h2 em {
   transition: all 0.3s ease;
 }
 
-.boton-volver:hover {
-  background: linear-gradient(135deg, #6a9967, #4f7e4c);
-  transform: translateY(-3px);
-  box-shadow: 0 12px 22px rgba(0, 0, 0, 0.2);
+.volver-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 70px 0 50px 0;
 }
+
+.btn-volver {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  background: linear-gradient(135deg, #d9d27a, #c4bd5a);
+  color: #000;
+  text-decoration: none;
+  padding: 14px 36px;
+  border-radius: 999px;
+  font-weight: 600;
+  font-size: 16px;
+  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+}
+
+.btn-volver:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
+  background: linear-gradient(135deg, #cfc866, #b9b24d);
+}
+
