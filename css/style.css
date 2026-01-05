@@ -138,61 +138,6 @@ img {
   position: relative;
 }
 
-/* detalle superior */
-.descripcion-subfamilia::before {
-  content: "Subfamilia";
-  position: absolute;
-  top: -14px;
-  left: 30px;
-  background: #7da87b;
-  color: #fff;
-  padding: 4px 14px;
-  font-size: 13px;
-  border-radius: 12px;
-  letter-spacing: 0.5px;
-}
-.descripcion-tribu {
-  max-width: 900px;
-  margin: 22px auto;
-  background: #eef5e6;
-  padding: 20px 28px;
-  border-left: 6px solid #7da87b;
-  border-radius: 16px;
-  font-size: 15.8px;
-  line-height: 1.65;
-  color: #2f3e2f;
-  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.08);
-}
-
-h2 {
-  max-width: 900px;
-  margin: 30px auto 10px auto;
-  padding: 0 20px;
-  color: #2f5d2f;
-  font-style: normal;
-}
-
-h2 em {
-  font-style: italic;
-}
-.volver-contenedor {
-  display: flex;
-  justify-content: center;
-  margin: 60px 0 40px 0;
-}
-
-.boton-volver {
-  background: linear-gradient(135deg, #7da87b, #5f8f5b);
-  color: #ffffff;
-  text-decoration: none;
-  padding: 14px 34px;
-  border-radius: 30px;
-  font-weight: bold;
-  font-size: 16px;
-  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.15);
-  transition: all 0.3s ease;
-}
-
 .volver-wrapper {
   display: flex;
   justify-content: center;
@@ -219,4 +164,3 @@ h2 em {
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
   background: linear-gradient(135deg, #cfc866, #b9b24d);
 }
-
