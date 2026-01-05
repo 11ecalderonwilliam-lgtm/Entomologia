@@ -1,59 +1,122 @@
+/* =========================
+   ESTILO GLOBAL
+   ========================= */
+
+* {
+  box-sizing: border-box;
+}
+
 body {
   margin: 0;
   font-family: "Trebuchet MS", Arial, sans-serif;
-background-color: #cfe3c2;
-
+  background-color: #cfe3c2;
+  color: #243624;
+  line-height: 1.7;
 }
+
+/* =========================
+   CONTENEDOR GENERAL
+   ========================= */
+
+.contenedor {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 60px 40px 80px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .contenedor {
+    padding: 30px 18px;
+  }
+}
+
+/* =========================
+   HERO / ENCABEZADO
+   ========================= */
 
 .hero {
   background: #7da87b;
-  padding: 60px 20px;
+  padding: 70px 25px;
   text-align: center;
 }
 
 .hero-text {
-  background: rgba(255, 255, 255, 0.8);
+  background: rgba(255, 255, 255, 0.85);
   display: inline-block;
-  padding: 20px 40px;
-  border-radius: 15px;
+  padding: 28px 45px;
+  border-radius: 18px;
 }
+
+/* =========================
+   MENÚ PRINCIPAL
+   ========================= */
 
 .menu {
   display: flex;
   flex-direction: column;
-  max-width: 280px;
-  margin: 30px 0;
+  max-width: 300px;
+  margin: 50px 0;
 }
+
+/* =========================
+   BOTONES GENERALES
+   ========================= */
 
 .boton {
   background: #c6c37a;
-  padding: 15px;
-  margin: 8px 0;
-  border-radius: 20px;
+  padding: 16px 20px;
+  margin: 10px 0;
+  border-radius: 22px;
   text-decoration: none;
-  color: black;
+  color: #000;
   font-weight: bold;
-  box-shadow: 3px 3px 6px rgba(0,0,0,0.3);
+  box-shadow: 3px 3px 8px rgba(0,0,0,0.25);
+  transition: all 0.3s ease;
 }
 
 .boton:hover {
   background: #b5b261;
-  transform: translateX(5px);
+  transform: translateX(6px);
 }
+
 /* =========================
-   ESTILOS PARA CATÁLOGO
+   TIPOGRAFÍA ACADÉMICA
+   ========================= */
+
+h1, h2, h3 {
+  margin-top: 70px;
+  margin-bottom: 25px;
+  color: #1f331f;
+}
+
+p {
+  margin-bottom: 18px;
+}
+
+em {
+  font-style: italic;
+}
+
+/* Permite que los anclajes no queden ocultos */
+h1[id], h2[id], h3[id] {
+  scroll-margin-top: 110px;
+}
+
+/* =========================
+   TABLAS GENERALES
    ========================= */
 
 table {
   width: 100%;
   border-collapse: collapse;
-  background-color: white;
-  margin-top: 30px;
+  background-color: #ffffff;
+  margin: 40px 0 70px;
 }
 
 th, td {
   border: 1px solid #9db89a;
-  padding: 8px;
+  padding: 10px;
   text-align: center;
 }
 
@@ -71,56 +134,40 @@ td a:hover {
   text-decoration: underline;
 }
 
-/* Cursiva científica */
-em {
-  font-style: italic;
-}
-
-/* Imágenes en páginas de géneros */
-img {
-  max-width: 100%;
-  border-radius: 12px;
-  margin: 20px 0;
-}
+/* =========================
+   TABLA SUBFAMILIAS
+   ========================= */
 
 .tabla-subfamilias {
   width: 90%;
-  margin: 30px auto;
-  border-collapse: collapse;
+  margin: 40px auto 70px;
   background-color: #eef5e6;
 }
 
-.tabla-subfamilias th {
-  background-color: #7da87b;
-  color: black;
-  padding: 10px;
-  border: 2px solid #000;
-}
-
+.tabla-subfamilias th,
 .tabla-subfamilias td {
-  padding: 10px;
   border: 2px solid #000;
+  padding: 12px;
 }
 
 .tabla-subfamilias tr:nth-child(even) {
   background-color: #dfead7;
 }
+
+/* =========================
+   TABLA ESPECIES
+   ========================= */
+
 .tabla-especies {
   width: 90%;
-  margin: 30px auto;
-  border-collapse: collapse;
+  margin: 40px auto 70px;
   background-color: #eef5e6;
 }
 
-.tabla-especies th {
-  background-color: #7da87b;
-  border: 2px solid #000;
-  padding: 10px;
-}
-
+.tabla-especies th,
 .tabla-especies td {
   border: 2px solid #000;
-  padding: 8px;
+  padding: 10px;
 }
 
 .tabla-especies tr:nth-child(even) {
@@ -132,14 +179,13 @@ img {
    ========================= */
 
 .descripcion-subfamilia {
-  max-width: 950px;
-  margin: 30px auto;
+  max-width: 1000px;
+  margin: 40px auto;
   background: linear-gradient(145deg, #f4f9ef, #e1edd8);
-  padding: 26px 34px;
-  border-radius: 22px;
+  padding: 32px 40px;
+  border-radius: 24px;
   font-size: 16.5px;
   line-height: 1.75;
-  color: #243624;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.10);
 }
 
@@ -148,16 +194,25 @@ img {
    ========================= */
 
 .descripcion-tribu {
-  max-width: 900px;
-  margin: 25px auto;
+  max-width: 950px;
+  margin: 35px auto;
   background: #eef5e6;
-  padding: 22px 30px;
+  padding: 28px 36px;
   border-left: 6px solid #7da87b;
-  border-radius: 18px;
+  border-radius: 20px;
   font-size: 15.8px;
   line-height: 1.7;
-  color: #2f3e2f;
   box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
+}
+
+/* =========================
+   IMÁGENES
+   ========================= */
+
+img {
+  max-width: 100%;
+  border-radius: 14px;
+  margin: 25px 0;
 }
 
 /* =========================
@@ -167,94 +222,36 @@ img {
 .volver-wrapper {
   display: flex;
   justify-content: center;
-  margin: 70px 0 50px 0;
+  margin: 80px 0 60px;
 }
 
 .btn-volver {
   display: inline-flex;
   align-items: center;
+  padding: 15px 40px;
   background: linear-gradient(135deg, #d9d27a, #c4bd5a);
   color: #000;
   text-decoration: none;
-  padding: 14px 36px;
   border-radius: 999px;
   font-weight: 600;
   font-size: 16px;
-  box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
   transition: all 0.3s ease;
 }
 
 .btn-volver:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
-}
-/* ==================================
-   CONTENEDOR GLOBAL PARA TODO EL SITIO
-   ================================== */
-
-.contenedor {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 60px 50px 80px;
+  transform: translateY(-4px);
+  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.25);
 }
 
-/* ==================================
-   ESPACIADO GLOBAL Y CONSISTENTE
-   ================================== */
+/* =========================
+   FOOTER
+   ========================= */
 
-h1, h2, h3 {
-  margin-top: 70px;
-  margin-bottom: 25px;
+footer {
+  text-align: center;
+  margin-top: 80px;
+  padding: 30px 15px;
+  font-size: 14px;
+  color: #2f3e2f;
 }
-
-p {
-  margin-bottom: 18px;
-}
-
-table {
-  margin-top: 35px;
-  margin-bottom: 60px;
-}
-
-/* ==================================
-   ANCLAS PARA TODAS LAS SECCIONES
-   ================================== */
-
-h1[id], h2[id], h3[id] {
-  scroll-margin-top: 100px;
-}
-
-/* ==================================
-   DESCRIPCIONES (TODAS)
-   ================================== */
-
-.descripcion-subfamilia,
-.descripcion-tribu {
-  padding: 30px 38px;
-  margin: 35px auto;
-  max-width: 1000px;
-}
-
-/* ==================================
-   BOTONES
-   ================================== */
-
-.boton,
-.btn-volver {
-  margin-top: 30px;
-}
-/* CONTENEDOR GENERAL DE CONTENIDO */
-.contenedor {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 60px 40px;
-  box-sizing: border-box;
-}
-
-/* Ajuste para pantallas pequeñas */
-@media (max-width: 768px) {
-  .contenedor {
-    padding: 30px 18px;
-  }
-}
-
