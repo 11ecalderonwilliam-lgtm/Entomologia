@@ -125,43 +125,42 @@ img {
 
 .tabla-especies tr:nth-child(even) {
   background-color: #dfead7;
-}
 .descripcion-subfamilia {
-  max-width: 900px;
-  margin: 15px auto 30px auto;
-  background: #eef5e6;
-  padding: 18px 25px;
-  border-left: 6px solid #7da87b;
-  border-radius: 12px;
-  font-size: 16px;
-  line-height: 1.6;
-}
-/* =========================
-   DESCRIPCIONES ESTILO TARJETA
-   ========================= */
-
-.descripcion-subfamilia,
-.descripcion-tribu {
-  max-width: 900px;
-  margin: 25px auto;
-  background: linear-gradient(145deg, #f4f9ef, #e6f0dd);
-  padding: 22px 30px;
-  border-radius: 18px;
-  font-size: 16px;
-  line-height: 1.7;
-  color: #2f3e2f;
-  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
+  max-width: 950px;
+  margin: 30px auto;
+  background: linear-gradient(145deg, #f4f9ef, #e1edd8);
+  padding: 26px 34px;
+  border-radius: 22px;
+  font-size: 16.5px;
+  line-height: 1.75;
+  color: #243624;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.10);
   position: relative;
 }
 
-.descripcion-subfamilia::before,
-.descripcion-tribu::before {
-  content: "";
+/* detalle superior */
+.descripcion-subfamilia::before {
+  content: "Subfamilia";
   position: absolute;
-  top: 0;
-  left: 20px;
-  width: 60px;
-  height: 4px;
+  top: -14px;
+  left: 30px;
   background: #7da87b;
-  border-radius: 4px;
+  color: #fff;
+  padding: 4px 14px;
+  font-size: 13px;
+  border-radius: 12px;
+  letter-spacing: 0.5px;
 }
+.descripcion-tribu {
+  max-width: 900px;
+  margin: 22px auto;
+  background: #eef5e6;
+  padding: 20px 28px;
+  border-left: 6px solid #7da87b;
+  border-radius: 16px;
+  font-size: 15.8px;
+  line-height: 1.65;
+  color: #2f3e2f;
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.08);
+}
+
