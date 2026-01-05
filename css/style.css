@@ -1,257 +1,230 @@
-/* =========================
-   ESTILO GLOBAL
-   ========================= */
-
-* {
-  box-sizing: border-box;
-}
+/* ===============================
+   CONFIGURACIÓN GENERAL
+   =============================== */
 
 body {
   margin: 0;
-  font-family: "Trebuchet MS", Arial, sans-serif;
-  background-color: #cfe3c2;
+  font-family: "Georgia", "Times New Roman", serif;
+  background: linear-gradient(180deg, #e9f1e3, #cfe3c2);
   color: #243624;
-  line-height: 1.7;
 }
 
-/* =========================
-   CONTENEDOR GENERAL
-   ========================= */
-
-.contenedor {
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 60px 40px 80px;
-}
-
-/* Responsive */
-@media (max-width: 768px) {
-  .contenedor {
-    padding: 30px 18px;
-  }
-}
-
-/* =========================
-   HERO / ENCABEZADO
-   ========================= */
+/* ===============================
+   HERO / PORTADA
+   =============================== */
 
 .hero {
-  background: #7da87b;
-  padding: 70px 25px;
+  background: linear-gradient(135deg, #5f8f6a, #7da87b);
+  padding: 100px 20px;
   text-align: center;
 }
 
 .hero-text {
-  background: rgba(255, 255, 255, 0.85);
+  background: rgba(255, 255, 255, 0.92);
   display: inline-block;
-  padding: 28px 45px;
-  border-radius: 18px;
+  padding: 35px 60px;
+  border-radius: 30px;
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25);
 }
 
-/* =========================
+.hero h1 {
+  font-size: 48px;
+  margin: 0;
+  letter-spacing: 1px;
+}
+
+.hero p {
+  font-size: 18px;
+  margin-top: 10px;
+  color: #3b5a3b;
+}
+
+/* ===============================
+   CONTENEDOR PRINCIPAL
+   =============================== */
+
+.contenedor {
+  max-width: 1150px;
+  margin: 0 auto;
+  padding: 80px 50px;
+  box-sizing: border-box;
+}
+
+/* ===============================
    MENÚ PRINCIPAL
-   ========================= */
+   =============================== */
 
 .menu {
-  display: flex;
-  flex-direction: column;
-  max-width: 300px;
-  margin: 50px 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 25px;
+  margin-bottom: 80px;
 }
 
-/* =========================
-   BOTONES GENERALES
-   ========================= */
-
 .boton {
-  background: #c6c37a;
-  padding: 16px 20px;
-  margin: 10px 0;
-  border-radius: 22px;
+  background: linear-gradient(135deg, #d7cf77, #bdb85f);
+  padding: 22px;
+  border-radius: 999px;
+  text-align: center;
   text-decoration: none;
-  color: #000;
+  color: #1f2e1f;
   font-weight: bold;
-  box-shadow: 3px 3px 8px rgba(0,0,0,0.25);
-  transition: all 0.3s ease;
+  font-size: 17px;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.25);
+  transition: all 0.35s ease;
 }
 
 .boton:hover {
-  background: #b5b261;
-  transform: translateX(6px);
+  transform: translateY(-6px) scale(1.03);
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.35);
 }
 
-/* =========================
-   TIPOGRAFÍA ACADÉMICA
-   ========================= */
+/* ===============================
+   SECCIONES DE TEXTO
+   =============================== */
 
-h1, h2, h3 {
-  margin-top: 70px;
+section {
+  margin-bottom: 90px;
+}
+
+h2 {
+  font-size: 32px;
   margin-bottom: 25px;
-  color: #1f331f;
+  border-left: 8px solid #7da87b;
+  padding-left: 18px;
 }
 
 p {
-  margin-bottom: 18px;
+  font-size: 18px;
+  line-height: 1.9;
+  max-width: 900px;
 }
 
-em {
-  font-style: italic;
+/* ===============================
+   GALERÍA DE IMÁGENES
+   =============================== */
+
+.galeria {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 30px;
+  margin-top: 50px;
 }
 
-/* Permite que los anclajes no queden ocultos */
-h1[id], h2[id], h3[id] {
-  scroll-margin-top: 110px;
+.galeria img {
+  width: 100%;
+  border-radius: 25px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.25);
+  transition: transform 0.4s ease;
 }
 
-/* =========================
-   TABLAS GENERALES
-   ========================= */
+.galeria img:hover {
+  transform: scale(1.08);
+}
+
+/* ===============================
+   TABLAS (CATÁLOGO)
+   =============================== */
 
 table {
   width: 100%;
   border-collapse: collapse;
-  background-color: #ffffff;
-  margin: 40px 0 70px;
+  background: white;
+  margin: 60px 0;
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 12px 25px rgba(0, 0, 0, 0.2);
 }
 
 th, td {
-  border: 1px solid #9db89a;
-  padding: 10px;
+  padding: 16px;
   text-align: center;
 }
 
 th {
-  background-color: #6f9e6b;
+  background: #5f8f6a;
   color: white;
+  font-size: 16px;
 }
 
-td a {
-  color: #2f5d2f;
-  text-decoration: none;
+td {
+  font-size: 15px;
 }
 
-td a:hover {
-  text-decoration: underline;
-}
-
-/* =========================
-   TABLA SUBFAMILIAS
-   ========================= */
-
-.tabla-subfamilias {
-  width: 90%;
-  margin: 40px auto 70px;
+tr:nth-child(even) {
   background-color: #eef5e6;
 }
 
-.tabla-subfamilias th,
-.tabla-subfamilias td {
-  border: 2px solid #000;
-  padding: 12px;
-}
+/* ===============================
+   DESCRIPCIONES (SUBFAMILIA / TRIBU)
+   =============================== */
 
-.tabla-subfamilias tr:nth-child(even) {
-  background-color: #dfead7;
-}
-
-/* =========================
-   TABLA ESPECIES
-   ========================= */
-
-.tabla-especies {
-  width: 90%;
-  margin: 40px auto 70px;
-  background-color: #eef5e6;
-}
-
-.tabla-especies th,
-.tabla-especies td {
-  border: 2px solid #000;
-  padding: 10px;
-}
-
-.tabla-especies tr:nth-child(even) {
-  background-color: #dfead7;
-}
-
-/* =========================
-   DESCRIPCIÓN SUBFAMILIA
-   ========================= */
-
-.descripcion-subfamilia {
-  max-width: 1000px;
-  margin: 40px auto;
-  background: linear-gradient(145deg, #f4f9ef, #e1edd8);
-  padding: 32px 40px;
-  border-radius: 24px;
-  font-size: 16.5px;
-  line-height: 1.75;
-  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.10);
-}
-
-/* =========================
-   DESCRIPCIÓN TRIBU
-   ========================= */
-
+.descripcion-subfamilia,
 .descripcion-tribu {
+  background: white;
+  padding: 35px 45px;
+  border-radius: 30px;
   max-width: 950px;
-  margin: 35px auto;
-  background: #eef5e6;
-  padding: 28px 36px;
-  border-left: 6px solid #7da87b;
-  border-radius: 20px;
-  font-size: 15.8px;
-  line-height: 1.7;
-  box-shadow: 0 6px 15px rgba(0, 0, 0, 0.08);
+  margin: 60px auto;
+  font-size: 18px;
+  line-height: 1.9;
+  box-shadow: 0 14px 35px rgba(0, 0, 0, 0.18);
+  border-left: 10px solid #7da87b;
 }
 
-/* =========================
-   IMÁGENES
-   ========================= */
-
-img {
-  max-width: 100%;
-  border-radius: 14px;
-  margin: 25px 0;
-}
-
-/* =========================
+/* ===============================
    BOTÓN VOLVER
-   ========================= */
+   =============================== */
 
 .volver-wrapper {
   display: flex;
   justify-content: center;
-  margin: 80px 0 60px;
+  margin: 100px 0 60px;
 }
 
 .btn-volver {
-  display: inline-flex;
-  align-items: center;
-  padding: 15px 40px;
-  background: linear-gradient(135deg, #d9d27a, #c4bd5a);
-  color: #000;
-  text-decoration: none;
+  background: linear-gradient(135deg, #d9d27a, #bfb95d);
+  padding: 18px 50px;
   border-radius: 999px;
-  font-weight: 600;
-  font-size: 16px;
-  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
-  transition: all 0.3s ease;
+  font-size: 17px;
+  font-weight: bold;
+  color: #1f2e1f;
+  text-decoration: none;
+  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.3);
+  transition: all 0.35s ease;
 }
 
 .btn-volver:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 10px 22px rgba(0, 0, 0, 0.25);
+  transform: translateY(-5px);
+  box-shadow: 0 16px 35px rgba(0, 0, 0, 0.4);
 }
 
-/* =========================
+/* ===============================
    FOOTER
-   ========================= */
+   =============================== */
 
 footer {
+  background: #5f8f6a;
+  color: white;
   text-align: center;
-  margin-top: 80px;
-  padding: 30px 15px;
-  font-size: 14px;
-  color: #2f3e2f;
+  padding: 35px 20px;
+  font-size: 15px;
+}
+
+/* ===============================
+   RESPONSIVE
+   =============================== */
+
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 36px;
+  }
+
+  .contenedor {
+    padding: 50px 25px;
+  }
+
+  p {
+    font-size: 16px;
+  }
 }
