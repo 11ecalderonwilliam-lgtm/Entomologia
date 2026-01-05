@@ -188,3 +188,58 @@ img {
   transform: translateY(-3px);
   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.25);
 }
+/* ==================================
+   CONTENEDOR GLOBAL PARA TODO EL SITIO
+   ================================== */
+
+.contenedor {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 60px 50px 80px;
+}
+
+/* ==================================
+   ESPACIADO GLOBAL Y CONSISTENTE
+   ================================== */
+
+h1, h2, h3 {
+  margin-top: 70px;
+  margin-bottom: 25px;
+}
+
+p {
+  margin-bottom: 18px;
+}
+
+table {
+  margin-top: 35px;
+  margin-bottom: 60px;
+}
+
+/* ==================================
+   ANCLAS PARA TODAS LAS SECCIONES
+   ================================== */
+
+h1[id], h2[id], h3[id] {
+  scroll-margin-top: 100px;
+}
+
+/* ==================================
+   DESCRIPCIONES (TODAS)
+   ================================== */
+
+.descripcion-subfamilia,
+.descripcion-tribu {
+  padding: 30px 38px;
+  margin: 35px auto;
+  max-width: 1000px;
+}
+
+/* ==================================
+   BOTONES
+   ================================== */
+
+.boton,
+.btn-volver {
+  margin-top: 30px;
+}
