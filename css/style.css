@@ -224,16 +224,17 @@ tr:nth-child(even) {
 .footer-global {
   width: 100%;
   background-color: #6f9e6b;
-  padding: 30px 20px;
-  margin-top: 80px;
+  padding: 40px 20px;
+  margin-top: 120px;
   box-sizing: border-box;
 }
 
 .footer-global p {
-  max-width: 1200px;
+  max-width: 1400px;
   margin: 0 auto;
   text-align: center;
-  font-size: 14.5px;
-  line-height: 1.6;
+  font-size: 15px;
+  line-height: 1.7;
   color: #ffffff;
 }
+
