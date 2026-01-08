@@ -199,17 +199,6 @@ tr:nth-child(even) {
   box-shadow: 0 16px 35px rgba(0, 0, 0, 0.4);
 }
 
-/* ===============================
-   FOOTER
-   =============================== */
-
-footer {
-  background: #5f8f6a;
-  color: white;
-  text-align: center;
-  padding: 35px 20px;
-  font-size: 15px;
-}
 
 /* ===============================
    RESPONSIVE
