@@ -228,3 +228,23 @@ footer {
     font-size: 16px;
   }
 }
+/* =========================
+   FOOTER GLOBAL ACADÉMICO
+   ========================= */
+
+.footer-global {
+  width: 100%;
+  background-color: #6f9e6b;
+  padding: 30px 20px;
+  margin-top: 80px;
+  box-sizing: border-box;
+}
+
+.footer-global p {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 14.5px;
+  line-height: 1.6;
+  color: #ffffff;
+}
