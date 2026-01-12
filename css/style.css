@@ -460,3 +460,6 @@ tr:nth-child(even) {
     max-width: 100%;
   }
 }
+body {
+  -webkit-text-size-adjust: 100%;
+}
