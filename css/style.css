@@ -179,8 +179,10 @@ tr:nth-child(even) {
 .volver-wrapper {
   display: flex;
   justify-content: center;
-  margin: 100px 0 60px;
+  margin: 120px auto 80px;
+  width: 100%;
 }
+
 
 .btn-volver {
   background: linear-gradient(135deg, #d9d27a, #bfb95d);
@@ -192,7 +194,11 @@ tr:nth-child(even) {
   text-decoration: none;
   box-shadow: 0 10px 22px rgba(0, 0, 0, 0.3);
   transition: all 0.35s ease;
+
+  position: relative;
+  z-index: 10;
 }
+
 
 .btn-volver:hover {
   transform: translateY(-5px);
@@ -240,10 +246,11 @@ tr:nth-child(even) {
 
 .menu {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-  gap: 35px;
-  margin-bottom: 100px;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 30px;
+  margin-bottom: 60px;
 }
+
 
 .boton-card {
   background: linear-gradient(135deg, #ffffff, #f1f6ec);
