@@ -238,3 +238,101 @@ tr:nth-child(even) {
   color: #ffffff;
 }
 
+.menu {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 35px;
+  margin-bottom: 100px;
+}
+
+.boton-card {
+  background: linear-gradient(135deg, #ffffff, #f1f6ec);
+  border-radius: 28px;
+  padding: 35px 30px;
+  text-align: center;
+  text-decoration: none;
+  color: #2c3e2c;
+  box-shadow: 0 14px 30px rgba(0, 0, 0, 0.18);
+  transition: all 0.4s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.boton-card::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, #7da87b, #5f8f6a);
+  opacity: 0;
+  transition: opacity 0.4s ease;
+}
+
+.boton-card:hover::before {
+  opacity: 0.08;
+}
+
+.boton-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 22px 45px rgba(0, 0, 0, 0.3);
+}
+
+.icono {
+  font-size: 38px;
+  display: block;
+  margin-bottom: 15px;
+}
+
+.titulo {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.descripcion {
+  font-size: 14.5px;
+  color: #4f6b4f;
+}
+/* ===============================
+   BOTONES TIPO CARD (MENÚ)
+   =============================== */
+
+.boton-card {
+  display: flex;
+  flex-direction: column;      /* 👈 clave */
+  align-items: center;
+  text-align: center;
+
+  background: linear-gradient(135deg, #f4f1c9, #d6cf77);
+  padding: 30px 25px;
+  border-radius: 28px;
+  text-decoration: none;
+  color: #1f2e1f;
+
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.25);
+  transition: transform 0.35s ease, box-shadow 0.35s ease;
+}
+
+.boton-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 18px 38px rgba(0, 0, 0, 0.35);
+}
+
+/* ÍCONO */
+.boton-card .icono {
+  font-size: 42px;
+  margin-bottom: 14px;
+}
+
+/* TÍTULO */
+.boton-card .titulo {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 8px;   /* 👈 separación con descripción */
+}
+
+/* DESCRIPCIÓN */
+.boton-card .descripcion {
+  font-size: 14.5px;
+  line-height: 1.5;
+  opacity: 0.85;
+}
