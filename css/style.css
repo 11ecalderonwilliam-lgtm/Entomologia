@@ -463,3 +463,35 @@ tr:nth-child(even) {
 body {
   -webkit-text-size-adjust: 100%;
 }
+/* ===============================
+   TABLAS RESPONSIVE (MÓVIL)
+   =============================== */
+
+.tabla-scroll {
+  width: 100%;
+  overflow-x: auto;
+  margin-bottom: 30px;
+  -webkit-overflow-scrolling: touch;
+}
+
+.tabla-scroll table {
+  min-width: 720px;
+}
+
+/* Evita que el body se desborde */
+body {
+  overflow-x: hidden;
+}
+
+/* Indicador visual solo en móvil */
+@media (max-width: 768px) {
+  .tabla-scroll::after {
+    content: "↔ Desliza horizontalmente para ver la tabla completa";
+    display: block;
+    text-align: center;
+    font-size: 13px;
+    color: #355f3a;
+    margin-top: 8px;
+    font-style: italic;
+  }
+}
