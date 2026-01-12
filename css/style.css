@@ -1,6 +1,15 @@
 /* ===============================
    CONFIGURACIÓN GENERAL
    =============================== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+html, body {
+  width: 100%;
+  overflow-x: hidden;
+}
 
 body {
   margin: 0;
@@ -206,38 +215,42 @@ tr:nth-child(even) {
 }
 
 
-/* ===============================
-   RESPONSIVE
-   =============================== */
-
 @media (max-width: 768px) {
+  .hero {
+    padding: 60px 15px;
+  }
+
+  .hero-text {
+    max-width: 100%;
+    padding: 22px 20px;
+    border-radius: 22px;
+  }
+
   .hero h1 {
-    font-size: 36px;
+    font-size: 32px;
   }
 
-  .contenedor {
-    padding: 50px 25px;
-  }
-
-  p {
+  .hero p {
     font-size: 16px;
   }
 }
+
 /* =========================
-   FOOTER GLOBAL ACADÉMICO
+   FOOTER GLOBAL – FIX MÓVIL
    ========================= */
 
 .footer-global {
   width: 100%;
   background-color: #6f9e6b;
-  padding: 40px 20px;
-  margin-top: 120px;
+  padding: 40px 16px;
+  margin-top: 100px;
   box-sizing: border-box;
 }
 
 .footer-global p {
-  max-width: 1400px;
+  max-width: 1000px;
   margin: 0 auto;
+  padding: 0;
   text-align: center;
   font-size: 15px;
   line-height: 1.7;
@@ -402,5 +415,48 @@ tr:nth-child(even) {
 @media (max-width: 520px) {
   .menu {
     grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 520px) {
+  .contenedor {
+    padding: 40px 18px;
+  }
+
+  p {
+    font-size: 15.5px;
+  }
+}
+/* ===============================
+   FIX REAL PARA CELULAR
+   =============================== */
+
+@media (max-width: 520px) {
+
+  html, body {
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+  .contenedor {
+    padding: 32px 16px; /* 👈 ESTE ES EL FIX */
+  }
+
+  .hero {
+    padding: 50px 14px;
+  }
+
+  .hero-text {
+    width: 100%;
+    padding: 20px 18px;
+    box-sizing: border-box;
+  }
+
+  .footer-global {
+    padding: 40px 16px;
+    box-sizing: border-box;
+  }
+
+  .footer-global p {
+    max-width: 100%;
   }
 }
