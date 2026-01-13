@@ -495,3 +495,7 @@ body {
     font-style: italic;
   }
 }
+.boton {
+  display: inline-block;
+  margin: 20px auto;
+}
