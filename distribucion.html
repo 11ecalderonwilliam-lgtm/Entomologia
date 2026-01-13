@@ -16,6 +16,12 @@
 
   <link rel="stylesheet" href="css/style.css">
   <link rel="icon" href="img/Cicadellidae.ico">
+  <!-- Leaflet CSS -->
+<link
+  rel="stylesheet"
+  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+/>
+
 </head>
 
 <body>
@@ -58,6 +64,40 @@
       montañosas, incluyendo bosques húmedos, sabanas y agroecosistemas.
     </p>
   </section>
+<h2>Distribución en Colombia</h2>
+
+<div id="mapa-colombia"></div>
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+  // Crear mapa centrado en Colombia
+  const mapa = L.map("mapa-colombia").setView([4.5709, -74.2973], 6);
+
+  // Capa base
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: "© OpenStreetMap"
+  }).addTo(mapa);
+
+  // 📍 EJEMPLO DE REGISTROS (EDITABLES)
+  const registros = [
+    {
+      especie: "Cicadellinae sp.",
+      localidad: "Bogotá, Cundinamarca",
+      lat: 4.7110,
+      lon: -74.0721
+    }
+  ];
+
+  // Agregar puntos al mapa
+  registros.forEach(r => {
+    L.marker([r.lat, r.lon])
+      .addTo(mapa)
+      .bindPopup(
+        `<strong>${r.especie}</strong><br>${r.localidad}`
+      );
+  });
+</script>
 
   <div class="volver-wrapper">
     <a href="index.html" class="btn-volver">← Volver al inicio</a>
