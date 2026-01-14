@@ -84,7 +84,8 @@
       fecha: "2025-11-24",
       localidad: "Bogotá, Cundinamarca",
       lat: 4.636408104857779,
-      lon: -74.08867065972487
+      lon: -74.08867065972487,
+      imagen: "img/mapas/Cicadellinae1.jpg"
     }
   ];
 registros.push({
@@ -96,15 +97,28 @@ registros.push({
 });
 
   // Agregar puntos
-  registros.forEach(r => {
-    L.marker([r.lat, r.lon])
-      .addTo(mapa)
-      .bindPopup(`
+ registros.forEach(r => {
+  L.marker([r.lat, r.lon])
+    .addTo(mapa)
+    .bindPopup(`
+      <div style="max-width:220px; text-align:center;">
+        ${r.imagen ? `
+          <img 
+            src="${r.imagen}" 
+            alt="${r.especie}" 
+            style="
+              width:100%;
+              border-radius:10px;
+              margin-bottom:8px;
+              box-shadow:0 4px 10px rgba(0,0,0,0.3);
+            ">
+        ` : ''}
         <strong>${r.especie}</strong><br>
         ${r.localidad}<br>
         <em>Fecha:</em> ${r.fecha}
-      `);
-  });
+      </div>
+    `);
+});
 </script>
 
 </body>
