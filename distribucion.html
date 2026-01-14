@@ -2,26 +2,32 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>Distribución de Cicadellidae – Colombia y Región Neotropical</title>
 
-  <meta name="description" content="Distribución geográfica de la familia Cicadellidae en Colombia, la región Neotropical y el mundo. Información académica sobre su biogeografía.">
-
-  <meta name="keywords" content="Cicadellidae, distribución geográfica, biogeografía, Colombia, Neotropical, Hemiptera">
-
+  <meta name="description" content="Distribución geográfica de la familia Cicadellidae en Colombia, la región Neotropical y el mundo.">
+  <meta name="keywords" content="Cicadellidae, distribución geográfica, biogeografía, Colombia">
   <meta name="author" content="William Felipe Calderón Durán">
-  <meta name="robots" content="index, follow">
-  <meta name="language" content="es">
 
   <link rel="stylesheet" href="css/style.css">
   <link rel="icon" href="img/Cicadellidae.ico">
-  <!-- Leaflet CSS -->
-<link
-  rel="stylesheet"
-  href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-/>
 
+  <!-- Leaflet CSS -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+
+  <!-- ALTURA DEL MAPA (OBLIGATORIO) -->
+  <style>
+    #mapa-colombia {
+      width: 100%;
+      height: 450px;
+      border-radius: 14px;
+      margin: 20px 0;
+    }
+  </style>
 </head>
 
 <body>
@@ -36,68 +42,14 @@
 <main class="contenedor">
 
   <section class="info">
-    <h2>Distribución general</h2>
-    <p>
-      La familia <em>Cicadellidae</em> presenta una distribución cosmopolita,
-      con representantes en todos los continentes, excepto en las regiones
-      polares. Su mayor diversidad se concentra en regiones tropicales y
-      subtropicales, especialmente en la región Neotropical.
-    </p>
-  </section>
-
-  <section class="info">
-    <h2>Distribución en la región Neotropical</h2>
-    <p>
-      En la región Neotropical, los <em>Cicadellidae</em> alcanzan su máxima
-      diversidad taxonómica, con un alto número de géneros y especies endémicas.
-      Esta región alberga numerosas subfamilias y tribus con una amplia
-      radiación adaptativa, asociada a la diversidad de plantas hospederas.
-    </p>
-  </section>
-
-  <section class="info">
     <h2>Distribución en Colombia</h2>
     <p>
-      Colombia es uno de los países con mayor diversidad de <em>Cicadellidae</em>
-      en Sudamérica, debido a su variedad de ecosistemas y gradientes
-      altitudinales. Las especies se encuentran desde zonas bajas hasta regiones
-      montañosas, incluyendo bosques húmedos, sabanas y agroecosistemas.
+      Colombia es uno de los países con mayor diversidad de <em>Cicadellidae</em>.
     </p>
   </section>
-<h2>Distribución en Colombia</h2>
 
-<div id="mapa-colombia"></div>
-<!-- Leaflet JS -->
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
-
-<script>
-  // Crear mapa centrado en Colombia
-  const mapa = L.map("mapa-colombia").setView([4.5709, -74.2973], 6);
-
-  // Capa base
-  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-    attribution: "© OpenStreetMap"
-  }).addTo(mapa);
-
-  // 📍 EJEMPLO DE REGISTROS (EDITABLES)
-  const registros = [
-    {
-      especie: "Cicadellinae sp.",
-      localidad: "Bogotá, Cundinamarca",
-      lat: 4.7110,
-      lon: -74.0721
-    }
-  ];
-
-  // Agregar puntos al mapa
-  registros.forEach(r => {
-    L.marker([r.lat, r.lon])
-      .addTo(mapa)
-      .bindPopup(
-        `<strong>${r.especie}</strong><br>${r.localidad}`
-      );
-  });
-</script>
+  <!-- MAPA -->
+  <div id="mapa-colombia"></div>
 
   <div class="volver-wrapper">
     <a href="index.html" class="btn-volver">← Volver al inicio</a>
@@ -107,11 +59,53 @@
 
 <footer class="footer-global">
   <p>
-    Proyecto académico – <em>Cicadellidae</em> – Universidad Nacional de Colombia – 
-    Francisco Javier Serna Cardona: Profesor encargado – 
+    Proyecto académico – <em>Cicadellidae</em> – Universidad Nacional de Colombia –
+    Francisco Javier Serna Cardona: Profesor encargado –
     William Felipe Calderón Durán: Estudiante
   </p>
 </footer>
+
+<!-- Leaflet JS (UNA SOLA VEZ) -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+  // Crear mapa
+  const mapa = L.map('mapa-colombia').setView([4.5709, -74.2973], 6);
+
+  // Capa base
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap'
+  }).addTo(mapa);
+
+  // Registros editables
+  const registros = [
+    {
+      especie: "Cicadellinae sp.",
+      fecha: "2025-11-24",
+      localidad: "Bogotá, Cundinamarca",
+      lat: 4.636408104857779,
+      lon: -74.08867065972487
+    }
+  ];
+registros.push({
+  especie: "Cicadellinae sp.",
+  fecha: "2025-11-24",
+  localidad: "Bogotá, Cundinamarca",
+  lat: 4.636165947535943,
+  lon: -74.08835196713714
+});
+
+  // Agregar puntos
+  registros.forEach(r => {
+    L.marker([r.lat, r.lon])
+      .addTo(mapa)
+      .bindPopup(`
+        <strong>${r.especie}</strong><br>
+        ${r.localidad}<br>
+        <em>Fecha:</em> ${r.fecha}
+      `);
+  });
+</script>
 
 </body>
 </html>
