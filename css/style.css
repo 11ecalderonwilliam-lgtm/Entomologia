@@ -526,3 +526,7 @@ body {
     height: 350px;
   }
 }
+
+.text-italic {
+  font-style: italic;
+}

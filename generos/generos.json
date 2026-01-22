@@ -1,0 +1,30 @@
+{
+  "aguahua": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Aguahua salamandra",
+        "autor": "Medler, 1960",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      }
+    ]
+  },
+
+  "acrulogonia": {
+    "subfamilia": "Acrulogoniinae",
+    "tribu": "Acrulogoniini",
+    "especies": [
+      {
+        "especie": "Acrulogonia punctata",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Aguahua salamandra",
+        "autor": "Medler, 1960",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      }
+    ]
+  }
+}

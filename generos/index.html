@@ -4,54 +4,43 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<title>Agrosoma</title>
+<title id="page-title">Género</title>
+
 <link rel="stylesheet" href="../css/style.css">
 <link rel="icon" href="/img/Cicadellidae.ico">
 </head>
 
 <body>
+
 <div class="contenedor">
 
-<a href="#" class="boton" onclick="history.back(); return false;"style="margin:20px; display:inline-block;">
+<a href="#" class="boton" onclick="history.back(); return false;" style="margin:20px; display:inline-block;">
   ← Volver
 </a>
 
-<h1><em>Agrosoma</em></h1>
+<h1 id="titulo-genero" class="text-italic"></h1>
 
-<p>
-<strong>Subfamilia:</strong> Cicadellinae<br>
-<strong>Tribu:</strong> Cicadellini
+<p id="info-taxonomia">
+  <strong>Subfamilia:</strong> <span id="subfamilia" class="text-italic"></span><br>
+  <strong>Tribu:</strong> <span id="tribu" class="text-italic"></span>
 </p>
 
 <table class="tabla-especies">
-<tr>
-  <th>N°</th>
-  <th>Especie</th>
-  <th>Autor / Año</th>
-  <th>Imágenes</th>
-</tr>
-
-<tr>
-  <td>1</td>
-  <td><em>Agrosoma</em></td>
-  <td>Medler, 1960</td>
-  <td>
-    <a href="../imagenes/especies/acrulogonia_punctata.jpg">Imagen</a>
-  </td>
-</tr>
-
-<tr>
-  <td>2</td>
-  <td><em>Agrosoma</em></td>
-  <td>Medler, 1960</td>
-  <td>
-    <a href="../imagenes/especies/acrulogonia_lineata.jpg">Imagen</a>
-  </td>
-</tr>
-
+  <thead>
+    <tr>
+      <th>N°</th>
+      <th>Especie</th>
+      <th>Autor / Año</th>
+      <th>Imágenes</th>
+    </tr>
+  </thead>
+  <tbody id="tabla-especies-body">
+    <!-- JS inserta filas aquí -->
+  </tbody>
 </table>
 
 </div>
+
 <footer class="footer-global">
   <p>
     Proyecto académico – <em>Cicadellidae</em> – Universidad Nacional de Colombia – 
@@ -60,5 +49,6 @@
   </p>
 </footer>
 
+<script src="tablasDinamicas.js"></script>
 </body>
 </html>
