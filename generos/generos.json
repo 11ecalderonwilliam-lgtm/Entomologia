@@ -56,7 +56,12 @@
         "especie": "Agallia soosi",
         "autor": "Linnavuori, 1956",
         "imageLink": "../img/generos/aguahua_salamandra.png"
-      },
+      }]},
+
+      
+  "agalliana": {
+    "subfamilia": "Agalliinae",
+    "especies": [
       {
         "especie": "Agalliana fusca",
         "autor": "Oman, 1934",
@@ -71,7 +76,12 @@
         "especie": "Agalliana stricticollis",
         "autor": "Stål, 1859",
         "imageLink": "../img/generos/aguahua_salamandra.png"
-      },
+      }]},
+
+     
+  "agalliopsis": {
+    "subfamilia": "Agalliinae",
+    "especies": [ 
       {
         "especie": "Agalliopsis curiche",
         "autor": "Linnavuori & DeLong, 1979",
@@ -101,17 +111,21 @@
         "especie": "Agalliopsis vonella",
         "autor": "Oman, 1938",
         "imageLink": "../img/generos/aguahua_salamandra.png"
-      },
+      }]},
+
+      
+  "agalliota": {
+    "subfamilia": "Agalliinae",
+    "especies": [ 
       {
         "especie": "Agalliota punctata",
         "autor": "Oman, 1934",
         "imageLink": "../img/generos/aguahua_salamandra.png"
-      },
-      {
-        "especie": "Bergallia sp",
-        "autor": "Oman, 1938",
-        "imageLink": "../img/generos/aguahua_salamandra.png"
-      },
+      }      ]},
+      
+  "euragallia": {
+    "subfamilia": "Agalliinae",
+    "especies": [ 
       {
         "especie": "Euragallia albopunctata",
         "autor": "Oman, 1938",
@@ -126,7 +140,10 @@
         "especie": "Euragallia striata",
         "autor": "Linnavuori, 1968",
         "imageLink": "../img/generos/aguahua_salamandra.png"
-      },
+      }]},
+       "latusagallia": {
+    "subfamilia": "Agalliinae",
+    "especies": [ 
       {
         "especie": "Latusagallia nigricans",
         "autor": "Uhler, 1895",
@@ -138,7 +155,7 @@
         "imageLink": "../img/generos/aguahua_salamandra.png"
       }
     ]
-  },
+    }  ,
 
   "aguahua": {
     "subfamilia": "Cicadellinae",
