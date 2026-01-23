@@ -530,3 +530,7 @@ body {
 .text-italic {
   font-style: italic;
 }
+
+.primerMayus:first-letter {
+text-transform: uppercase
+}

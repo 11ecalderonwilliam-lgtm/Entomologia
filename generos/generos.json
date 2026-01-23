@@ -1,4 +1,145 @@
 {
+  "agallia": {
+    "subfamilia": "Agalliinae",
+    "especies": [
+      {
+        "especie": "Agallia albidula",
+        "autor": "Uhler, 1895",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+       {
+        "especie": "Agallia basalis",
+        "autor": "Oman, 1938",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },      
+       {
+        "especie": "Agallia brevicauda",
+        "autor": "Oman, 1938",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agallia configurata",
+        "autor": "Oman, 1938",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agallia depleta",
+        "autor": "Oman, 1938",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agallia fumida",
+        "autor": "Oman, 1938",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agallia lineata",
+        "autor": "Osborn, 1923",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agallia lingula",
+        "autor": "Van Duzee, 1907",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agallia repleta",
+        "autor": "Van Duzee, 1907",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agallia sagittifer",
+        "autor": "Linnavuori, 1968",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agallia soosi",
+        "autor": "Linnavuori, 1956",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agalliana fusca",
+        "autor": "Oman, 1934",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agalliana puella",
+        "autor": "Oman, 1938",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agalliana stricticollis",
+        "autor": "Stål, 1859",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agalliopsis curiche",
+        "autor": "Linnavuori & DeLong, 1979",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agalliopsis disparilis",
+        "autor": "Oman, 1938",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agalliopsis dracula",
+        "autor": "Kramer, 1964",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agalliopsis rex",
+        "autor": "Kramer, 1960",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agalliopsis superba",
+        "autor": "Linnavuori, 1956",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agalliopsis vonella",
+        "autor": "Oman, 1938",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agalliota punctata",
+        "autor": "Oman, 1934",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Bergallia sp",
+        "autor": "Oman, 1938",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Euragallia albopunctata",
+        "autor": "Oman, 1938",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Euragallia major",
+        "autor": "Lethierry, 1890",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Euragallia striata",
+        "autor": "Linnavuori, 1968",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Latusagallia nigricans",
+        "autor": "Uhler, 1895",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Latusagallia vidua",
+        "autor": "Stål, 1859",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      }
+    ]
+  },
+
   "aguahua": {
     "subfamilia": "Cicadellinae",
     "tribu": "Cicadellini",
