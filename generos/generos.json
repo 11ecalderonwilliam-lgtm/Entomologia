@@ -155,8 +155,49 @@
         "imageLink": "../img/generos/aguahua_salamandra.png"
       }
     ]
-    }  ,
-
+    } ,
+"acrulogonia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Acrulogonia chocona",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Acrulogonia defectiva",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Acrulogonia ordinaria",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Acrulogonia sparsa",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      }
+    ]
+  },
+  "agrosoma": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Agrosoma cruciata",
+        "autor": "Signoret, 1853",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Agrosoma iluha",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/aguahua_salamandra.png"
+      }
+     ]
+    },
   "aguahua": {
     "subfamilia": "Cicadellinae",
     "tribu": "Cicadellini",
@@ -169,19 +210,49 @@
     ]
   },
 
-  "acrulogonia": {
-    "subfamilia": "Acrulogoniinae",
-    "tribu": "Acrulogoniini",
+  "amblyscarta": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
     "especies": [
       {
-        "especie": "Acrulogonia punctata",
-        "autor": "Young, 1977",
+        "especie": "Amblyscarta aurulenta",
+        "autor": "Fabricius, 1787",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       },
        {
-        "especie": "Aguahua salamandra",
-        "autor": "Medler, 1960",
+        "especie": "Amblyscarta binotata",
+        "autor": "Young, 1977",
         "imageLink": "../img/generos/aguahua_salamandra.png"
+      },
+      {
+        "especie": "Amblyscarta inca",
+        "autor": "Distant, 1908",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Amblyscarta incorrupta",
+        "autor": "Melichar, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Amblyscarta invenusta",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Amblyscarta opulenta",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Amblyscarta resolubilis",
+        "autor": "Fowler, 1899",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Amblyscarta venosa",
+        "autor": "Signoret, 1853",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
     ]
   }
