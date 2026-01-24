@@ -256,4 +256,437 @@
       }
     ]
   }
-}
+,
+
+"apulia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Apulia elongata",
+        "autor": "Signoret, 1854",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      } ,
+      {
+        "especie": "Apulia grisea",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      } ,
+      {
+        "especie": "Apulia pruinosa",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      } ,
+      {
+        "especie": "Apulia quadrimacula",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      } 
+    ]
+  }, 
+"baleja": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Baleja discordans",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      } ,
+      {
+        "especie": "Baleja marginala",
+        "autor": "Osborn, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      } ,
+      {
+        "especie": "Baleja rufofasciata",
+        "autor": "Distant, 1879",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+      ]
+  }
+,
+"beirneola": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Beirneola alboparallela",
+        "autor": "Signoret, 1855",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      } ,
+      {
+        "especie": "Beirneola anita",
+        "autor": "Fowler, 1900",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      } ,
+      {
+        "especie": "Beirneola doriona",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      } 
+    ]
+  },
+  "borogonalia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Borogonalia impressifrons",
+        "autor": "Signoret, 1854",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      } 
+    ]
+  }, 
+"caldwelliola": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Caldwelliola caucana",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      } 
+    ]
+  }, 
+
+  "cardioscarta": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Cardioscarta quadrifasciata",
+        "autor": "Linnaeus, 1758",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      } 
+    ]
+  },
+  "carneocephala": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Carneocephala dyeri",
+        "autor": "Gibson, 1919",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      } 
+    ]
+  },
+"catagonalia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Catagonalia conjunctula",
+        "autor": "Osborn, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      } ,
+       {
+        "especie": "Catagonalia lunata",
+        "autor": "Signoret, 1854",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+"chichahua": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Chichahua impressa",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Chichahua russeola",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+  },
+  "chlorogonalia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Chlorogonalia coeruleovittata",
+        "autor": "Signoret, 1855",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Chlorogonalia ultima",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+        "ciminius": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Ciminius albolineatus",
+        "autor": "Taschenberg, 1884",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+  "cinerogonalia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Cinerogonalia lituriceps",
+        "autor": "Osborn, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"coronigoniella": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Coronigoniella caquetana",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Coronigoniella formosula",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Coronigoniella lineola",
+        "autor": "Osborn, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Coronigoniella metana",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Coronigoniella ostenta",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"diedrocephala": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Diedrocephala variegata",
+        "autor": "Fabricius, 1775",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+      "dilobopterus": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Dilobopterus aubei",
+        "autor": "Signoret, 1855",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Dilobopterus auctulus",
+        "autor": "Jacobi, 1905",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Dilobopterus croceus",
+        "autor": "Metcalf, 1955",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Dilobopterus demissus",
+        "autor": "Fabricius, 1803",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Dilobopterus errabundus",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Dilobopterus frenatus",
+        "autor": "Taschenberg, 1884",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Dilobopterus hyalinatulus",
+        "autor": "Osborn, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Dilobopterus knighti",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Dilobopterus nigrovenosus",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Dilobopterus oliquatulus",
+        "autor": "Jacobi, 1905",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Dilobopterus stolli",
+        "autor": "Signoret, 1850",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Dilobopterus syrphoidulus",
+        "autor": "Jacobi, 1905",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Dilobopterus vicinus",
+        "autor": "Signoret, 1853",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"draeculacephala": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Draeculacephala clypeata",
+        "autor": "Osborn, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Draeculacephala soluta",
+        "autor": "Gibson, 1919",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Draeculacephala youngi",
+        "autor": "Dietrich, 1994",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"erythrogonia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Erythrogonia anduzei",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Erythrogonia aurivagula",
+        "autor": "Jacobi, 1905",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Erythrogonia diversa",
+        "autor": "Schmidt, 1928",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Erythrogonia gossana",
+        "autor": "Medler, 1963",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Erythrogonia incerta",
+        "autor": "Medler, 1963",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Erythrogonia insolana",
+        "autor": "Medler, 1963",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Erythrogonia kokomona",
+        "autor": "Medler, 1963",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Erythrogonia laeta",
+        "autor": "Fabricius, 1787",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Erythrogonia nativa",
+        "autor": "Melichar, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Erythrogonia plagiella",
+        "autor": "Melichar, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Erythrogonia quadriplagiata ",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Erythrogonia quissota",
+        "autor": "Medler, 1963",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  }
