@@ -641,18 +641,285 @@
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
+      },
+      "ferrariana": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Ferrariana trivittata",
+        "autor": "Signoret, 1854",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
-
-
-
-
-
-
-
-
-
-
-
+]
+      },
+    "fusigonalia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Fusigonalia caucaensis",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Fusigonalia melanota",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Fusigonalia metaensis",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Fusigonalia quinquevittata",
+        "autor": "Taschenberg, 1884",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },  
+"graphocephala": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Graphocephala nigrifascia",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Graphocephala redacta",
+        "autor": "Fowler, 1900",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Graphocephala sasaima",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      }, 
+"graphogonalia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Graphogonalia anduzei",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"hortensia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Hortensia similis",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"iragua": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Iragua diversa",
+        "autor": "Signoret, 1855",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Iragua fractilinea",
+        "autor": "Fowler, 1899",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Iragua nubila",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"isogonalia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Isogonalia sexlineata",
+        "autor": "Signoret, 1855",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+    "jakrama": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Jakrama eureta",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Jakrama krameri",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Jakrama servillei",
+        "autor": "Signoret, 1855",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Jakrama taeniata",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },  
+"janastana": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Janastana distinguenda",
+        "autor": "Fowler, 1900",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"juliaca": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Juliaca chapini",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Juliaca naevula",
+        "autor": "Melichar, 1951",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Juliaca ornatula",
+        "autor": "Melichar, 1951",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Juliaca pedisequula",
+        "autor": "Jacobi, 1905",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Juliaca peregilis",
+        "autor": "Melichar, 1932",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Juliaca pergrata ",
+        "autor": "Melichar, 1932",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Juliaca phelacra",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Juliaca pulla",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Juliaca satelles",
+        "autor": "Fowler, 1900",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Juliaca scalarum",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Juliaca suturalis",
+        "autor": "Melichar, 1951",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+      "kapateira": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Kapateira rosipennis",
+        "autor": "Osborn, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"kogigonalia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Kogigonalia spectabilis",
+        "autor": "Melichar, 1932",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Kogigonalia zarumoidea",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"ladoffa": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Ladoffa donsana",
+        "autor": "Young, 1932",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Ladoffa enochra",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Ladoffa ignota",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Ladoffa obscurana",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Ladoffa rubriguttata",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Ladoffa sannionis",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Ladoffa uncata",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      }
 
 
 
