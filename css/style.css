@@ -547,7 +547,7 @@ text-transform: uppercase
   width: 100vw;        /* lado a lado */
   max-width: none;
   height: auto;        /* 👈 clave: no forzar altura */
-max-height: 520px;
+max-height: 509px;
   display: block;
   margin: 0 auto;
 
@@ -578,5 +578,10 @@ max-height: 520px;
 .hero-full {
   position: relative;
 }
+.visually-hidden {
+  position: absolute;
+  left: -9999px;
+}
 
 
+}
