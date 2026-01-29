@@ -1204,79 +1204,108 @@
       }
 ]
       },
-"nielsonia": {
+"pawiloma": {
     "subfamilia": "Cicadellinae",
     "tribu": "Cicadellini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
+        "especie": "Pawiloma amoena",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Pawiloma festiva",
+        "autor": "Melichar, 1932",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Pawiloma multilunatula",
+        "autor": "Breddin, 1901",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Pawiloma paramoena",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Pawiloma peristicta",
         "autor": "Young, 1977",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+"pegogonia": {
     "subfamilia": "Cicadellinae",
     "tribu": "Cicadellini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
+        "especie": "Pegogonia rufipes",
+        "autor": "Fabricius, 1803",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"platygonia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Platygonia detecta",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Platygonia ignifera",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Platygonia spatulata",
+        "autor": "Signoret, 1854",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"plesiommata": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Plesiommata corniculata",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Plesiommata mollicella",
+        "autor": "Fowler, 1900",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"ramosulus": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Ramosulus corrugipennis",
+        "autor": "Osborn, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Ramosulus phaedrus",
         "autor": "Young, 1977",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+"rotigonalia": {
     "subfamilia": "Cicadellinae",
     "tribu": "Cicadellini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
-        "imageLink": "../img/generos/acrulogonia_punctata.png"
-      }
-]
-      },
-"nielsonia": {
-    "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
-    "especies": [
-      {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
-        "imageLink": "../img/generos/acrulogonia_punctata.png"
-      }
-]
-      },
-"nielsonia": {
-    "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
-    "especies": [
-      {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
-        "imageLink": "../img/generos/acrulogonia_punctata.png"
-      }
-]
-      },
-"nielsonia": {
-    "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
-    "especies": [
-      {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
-        "imageLink": "../img/generos/acrulogonia_punctata.png"
-      }
-]
-      },
-"nielsonia": {
-    "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
-    "especies": [
-      {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
+        "especie": "Rotigonalia limbatula",
+        "autor": "Osborn, 1926",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
