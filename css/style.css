@@ -5,11 +5,12 @@
 *::before,
 *::after {
   box-sizing: border-box;
-}
 html, body {
+  margin: 0;
+  padding: 0;
   width: 100%;
-  overflow-x: hidden;
 }
+
 
 body {
   margin: 0;
@@ -23,18 +24,15 @@ body {
    =============================== */
 
 .hero {
-  background: linear-gradient(135deg, #5f8f6a, #7da87b);
-  padding: 100px 20px;
+  background: none;     /* ❌ sin verde */
+  padding: 40px 20px;   /* más corto */
   text-align: center;
 }
 
-.hero-text {
-  background: rgba(255, 255, 255, 0.92);
-  display: inline-block;
-  padding: 35px 60px;
-  border-radius: 30px;
-  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.25);
-}
+
+
+
+
 
 .hero h1 {
   font-size: 48px;
@@ -220,11 +218,6 @@ tr:nth-child(even) {
     padding: 60px 15px;
   }
 
-  .hero-text {
-    max-width: 100%;
-    padding: 22px 20px;
-    border-radius: 22px;
-  }
 
   .hero h1 {
     font-size: 32px;
@@ -445,11 +438,7 @@ tr:nth-child(even) {
     padding: 50px 14px;
   }
 
-  .hero-text {
-    width: 100%;
-    padding: 20px 18px;
-    box-sizing: border-box;
-  }
+ 
 
   .footer-global {
     padding: 40px 16px;
@@ -534,3 +523,60 @@ body {
 .primerMayus:first-letter {
 text-transform: uppercase
 }
+/* Contenedor blanco del hero */
+/* ===============================
+   HERO FULL WIDTH (PORTADA)
+   =============================== */
+
+/* === HERO SOLO IMAGEN (FIX DEFINITIVO) === */
+
+/* === HERO TIPO BANNER === */
+
+.hero {
+  padding: 0;
+  background: #f9faf6; /* fondo neutro */
+}
+
+.hero-text.hero-imagen {
+  width: 100%;
+  max-width: none;
+  padding: 0;
+}
+
+.hero-img {
+  width: 100vw;        /* lado a lado */
+  max-width: none;
+  height: auto;        /* 👈 clave: no forzar altura */
+max-height: 520px;
+  display: block;
+  margin: 0 auto;
+
+  object-fit: contain; /* 👈 NO corta */
+}
+
+
+
+
+
+.hero {
+  background: rgb(255, 255, 255);
+}
+
+
+
+@media (max-width: 768px) {
+  .imagen-portada-full {
+    height: 280px;
+  }
+}
+
+@media (max-width: 480px) {
+  .imagen-portada-full {
+    height: 220px;
+  }
+}
+.hero-full {
+  position: relative;
+}
+
+
