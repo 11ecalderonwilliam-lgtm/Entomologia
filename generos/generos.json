@@ -1310,259 +1310,1130 @@
       }
 ]
       },
-"nielsonia": {
+"sailerana": {
     "subfamilia": "Cicadellinae",
     "tribu": "Cicadellini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
+        "especie": "Sailerana solitaris",
+        "autor": "Signoret, 1853",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"schildola": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Schildola opaca",
         "autor": "Young, 1977",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+"scopogonalia": {
     "subfamilia": "Cicadellinae",
     "tribu": "Cicadellini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
+        "especie": "Scopogonalia echinura",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+        {
+        "especie": "Scopogonalia nargena",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }    
+]
+      },
+"scoposcartula": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+    {
+        "especie": "Scoposcartula oculata",
+        "autor": "Signoret, 1853",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"selvitsa": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Selvitsa cachabensis",
+        "autor": "Distant, 1908",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+        {
+        "especie": "Selvitsa vermiculata",
         "autor": "Young, 1977",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+"serpa": {
     "subfamilia": "Cicadellinae",
     "tribu": "Cicadellini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
+        "especie": "Serpa plumbea",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"sibovia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Sibovia festana",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Sibovia infula",
+        "autor": "Melichar, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Sibovia nielsoni",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Sibovia prodigiosa",
+        "autor": "Melichar, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Sibovia taeniatifrons",
+        "autor": "Schmidt, 1928",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"sisimitalia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Sisimitalia infulata",
+        "autor": "Fowler, 1900",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"soosiulus": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Soosiulus azatus",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Soosiulus decorus",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Soosiulus febris",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Soosiulus flammidulus",
+        "autor": "Jacobi, 1905",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Soosiulus fulgidus",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Soosiulus interpolis",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Soosiulus lunatus",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Soosiulus regalis",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Soosiulus salutaris",
+        "autor": "Fowler, 1900",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Soosiulus sermuneulus",
+        "autor": "Melichar, 1932",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Soosiulus servulus",
+        "autor": "Melichar, 1932",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Soosiulus solidus",
+        "autor": "Melichar, 1932",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"stehlikiana": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Stehlikiana absona",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Stehlikiana bogotaensis",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Stehlikiana crassa",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Stehlikiana gaudialis",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Stehlikiana guttata",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Stehlikiana mirabilis",
+        "autor": "Signoret, 1853",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Stehlikiana novemnotata",
+        "autor": "Lethierry, 1890",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Stehlikiana obsoleta",
+        "autor": "Signoret, 1854",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Stehlikiana perturbata",
+        "autor": "Melichar, 1932",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }    
+]
+      },
+"stephanolla": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Stephanolla cazapana",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Stephanolla remota",
         "autor": "Young, 1977",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+"tacora": {
     "subfamilia": "Cicadellinae",
     "tribu": "Cicadellini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
+        "especie": "Tacora saturata",
         "autor": "Young, 1977",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+"tantogonalia": {
     "subfamilia": "Cicadellinae",
     "tribu": "Cicadellini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
+        "especie": "Tantogonalia praecalva",
         "autor": "Young, 1977",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+"teleogonia": {
     "subfamilia": "Cicadellinae",
     "tribu": "Cicadellini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
+        "especie": "Teleogonia arcuata",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Teleogonia diagonalis",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Teleogonia epicharis",
+        "autor": "Young, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Teleogonia fusca",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Teleogonia jacobii ",
+        "autor": "Melichar, 1925",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"trichogonia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Trichogonia vittata",
         "autor": "Young, 1977",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+"tubiga": {
     "subfamilia": "Cicadellinae",
     "tribu": "Cicadellini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
+        "especie": "Tubiga debilis",
         "autor": "Young, 1977",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+"tylozygus": {
     "subfamilia": "Cicadellinae",
     "tribu": "Cicadellini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
+        "especie": "Tylozygus fasciatus",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+        {
+        "especie": "Tylozygus geometricus",
+        "autor": "Signoret, 1854",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"willeiana": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Cicadellini",
+    "especies": [
+      {
+        "especie": "Willeiana maculoidea",
         "autor": "Young, 1977",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+"abana": {
     "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
+    "tribu": "Proconiini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
+        "especie": "Abana dires",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Abana gigas",
+        "autor": "Fowler, 1898",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Abana horvathi",
+        "autor": "Jacobi, 1905",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+      "acrobelus": {
     "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
+    "tribu": "Proconiini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
+        "especie": "Acrobelus colombianus",
+        "autor": "Majdalani & Emmrich, 1998",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Acrobelus reflexus",
+        "autor": "Signoret, 1855",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+        "acrogonia": {
     "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
+    "tribu": "Proconiini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
+        "especie": "Acrogonia flavoscutellata",
+        "autor": "Signoret, 1855",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Acrogonia gracilis",
+        "autor": "Osborn, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Acrogonia nigriceps",
+        "autor": "Signoret, 1855",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Acrogonia obscurior",
+        "autor": "Fowler, 1899",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Acrogonia sparsuta",
+        "autor": "Signoret, 1855",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+        "cyrtodisca": {
     "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
+    "tribu": "Proconiini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
+        "especie": "Cyrtodisca major",
+        "autor": "Signoret, 1854",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+        "deselvana": {
     "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
+    "tribu": "Proconiini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
+        "especie": "Deselvana simulans",
+        "autor": "Schmidt, 1928",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+        "dichrophleps": {
     "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
+    "tribu": "Proconiini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
+        "especie": "Dichrophleps symmetrica",
+        "autor": "Young, 1968",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+        "diestostemma": {
     "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
+    "tribu": "Proconiini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
+        "especie": "Diestostemma blantoni",
+        "autor": "Young, 1968",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Diestostemma colombiae",
+        "autor": "Young, 1968",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Diestostemma intermedium",
+        "autor": "Young, 1968",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Diestostemma nervosum",
+        "autor": "Signoret, 1855",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Diestostemma niveum",
+        "autor": "Melichar, 1924",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Diestostemma rufocirculum",
+        "autor": "Schmidt, 1910",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Diestostemma stesilea",
+        "autor": "Distant, 1908",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+        "homalodisca": {
     "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
+    "tribu": "Proconiini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
+        "especie": "Homalodisca lucernaria",
+        "autor": "Linnaeus, 1758",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Homalodisca noressa",
+        "autor": "Young, 1968",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+        "ichthyobelus": {
     "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
+    "tribu": "Proconiini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
+        "especie": "Ichthyobelus youngi",
+        "autor": "Kramer, 1976",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Acrobelus reflexus",
+        "autor": "Signoret, 1855",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+        "oncometopia": {
     "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
+    "tribu": "Proconiini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
+        "especie": "Oncometopia caucaensis",
+        "autor": "Schröder, 1960",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Oncometopia clarior",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Oncometopia congregata",
+        "autor": "Signoret, 1854",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Oncometopia facialis",
+        "autor": "Signoret, 1854",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Oncometopia herpes",
+        "autor": "Signoret, 1855",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Oncometopia melichari",
+        "autor": "Schröder, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Oncometopia meridensis",
+        "autor": "Schröder, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Oncometopia obtusa",
+        "autor": "Fabricius, 1787",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Oncometopia parallela",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Oncometopia rubescens ",
+        "autor": "Fowler, 1899",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+        "paracrocampsa": {
     "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
+    "tribu": "Proconiini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
+        "especie": "Paracrocampsa laboulbeni",
+        "autor": "Signoret, 1855",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+      },
+        "phera": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Proconiini",
+    "especies": [
+      {
+        "especie": "Phera maculiventris",
+        "autor": "Schmidt, 1928",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Phera obtusifrons",
+        "autor": "Fowler, 1899",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Phera unipunctata",
+        "autor": "Evans, 1947",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+        "proconia": {
     "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
+    "tribu": "Proconiini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
+        "especie": "Proconia marmorata",
+        "autor": "Fabricius, 1803",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+        "proconopera": {
     "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
+    "tribu": "Proconiini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
+        "especie": "Proconopera cumingi",
+        "autor": "Schmidt, 1928",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Proconopera pullula",
+        "autor": "Jacobi, 1905",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+        "proconosama": {
     "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
+    "tribu": "Proconiini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
+        "especie": "Proconosama columbica",
+        "autor": "Signoret, 1855",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Proconosama eluta",
+        "autor": "Young, 1968",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
-"nielsonia": {
+        "pseudometopia": {
     "subfamilia": "Cicadellinae",
-    "tribu": "Cicadellini",
+    "tribu": "Proconiini",
     "especies": [
       {
-        "especie": "Nielsonia scissa",
-        "autor": "Young, 1977",
+        "especie": "Pseudometopia amblardii",
+        "autor": "Signoret, 1855",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Pseudometopia appendiculata",
+        "autor": "Schmidt, 1928",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Pseudometopia dufouri",
+        "autor": "Signoret, 1855",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Pseudometopia phalaesia",
+        "autor": "Distant, 1908",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
 ]
       },
+        "pseudophera": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Proconiini",
+    "especies": [
+      {
+        "especie": "Pseudophera heterogena",
+        "autor": "Schmidt, 1928",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Pseudophera truncata",
+        "autor": "Young, 1968",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+        "rhaphirrhinus": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Proconiini",
+    "especies": [
+      {
+        "especie": "Rhaphirrhinus phosphoreus",
+        "autor": "Linnaeus, 1758",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+        "splonia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Proconiini",
+    "especies": [
+      {
+        "especie": "Splonia brevis",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+        "strictoscarta": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Proconiini",
+    "especies": [
+      {
+        "especie": "Strictoscarta amazonensis",
+        "autor": "Young, 1968",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Stictoscarta exoleta",
+        "autor": "Melichar, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+        "teletusa": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Proconiini",
+    "especies": [
+      {
+        "especie": "Teletusa limpida",
+        "autor": "Signoret, 1855",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+        "tretogonia": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Proconiini",
+    "especies": [
+      {
+        "especie": "Tretogonia conspersa",
+        "autor": "Schmidt, 1928",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Tretogonia punctatissima",
+        "autor": "Melichar, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+        "yunga": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Proconiini",
+    "especies": [
+      {
+        "especie": "Yunga fuistingi",
+        "autor": "Schmidt, 1928",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+        "zyzzogeton": {
+    "subfamilia": "Cicadellinae",
+    "tribu": "Proconiini",
+    "especies": [
+      {
+        "especie": "Zyzzogeton viridipennis",
+        "autor": "Latreille, 1811",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+ "boliviela": {
+    "subfamilia": "Coelidiinae",
+    "tribu": "Coelidiini",
+    "especies": [
+      {
+        "especie": "Boliviela delongi",
+        "autor": "Nielson, 1982",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      }, 
+"calodicia": {
+    "subfamilia": "Coelidiinae",
+    "tribu": "Coelidiini",
+    "especies": [
+      {
+        "especie": "Calodicia abrupta",
+        "autor": "Nielson, 1982",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Calodicia maculipennis",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      }, 
+      "coelidia": {
+    "subfamilia": "Coelidiinae",
+    "tribu": "Coelidiini",
+    "especies": [
+      {
+        "especie": "Coelidia aculeata",
+        "autor": "Nielson, 1982",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Coelidia atra",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Coelidia gorgonensis",
+        "autor": "Nielson, 1982",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Coelidia nigra",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Coelidia stali",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Coelidia venosa",
+        "autor": "Germar, 1821",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      }, 
+      "dicolecia": {
+    "subfamilia": "Coelidiinae",
+    "tribu": "Coelidiini",
+    "especies": [
+      {
+        "especie": "Dicolecia serrata",
+        "autor": "Nielson, 1982",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      }, 
+      "hamolidia": {
+    "subfamilia": "Coelidiinae",
+    "tribu": "Coelidiini",
+    "especies": [
+      {
+        "especie": "Hamolidia hama",
+        "autor": "Nielson, 1982",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      }, 
+      "omanolidia": {
+    "subfamilia": "Coelidiinae",
+    "tribu": "Coelidiini",
+    "especies": [
+      {
+        "especie": "Omanolidia pilosa",
+        "autor": "Nielson, 1982",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      }, 
+      "spinolidia": {
+    "subfamilia": "Coelidiinae",
+    "tribu": "Coelidiini",
+    "especies": [
+      {
+        "especie": "Spinolidia spiculata",
+        "autor": "Nielson, 1982",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+    "bolidiana": {
+    "subfamilia": "Coelidiinae",
+    "tribu": "Teruliini",
+    "especies": [
+      {
+        "especie": "Bolidiana aurata",
+        "autor": "Fabricius, 1787",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Bolidiana pallidiceps",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+"conbalia": {
+    "subfamilia": "Coelidiinae",
+    "tribu": "Teruliini",
+    "especies": [
+      {
+        "especie": "Conbalia colombiensis",
+        "autor": "Nielson, 1979",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Conbalia varicolor",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Conbalia youngi",
+        "autor": "Nielson, 1981",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+      "docalidia": {
+    "subfamilia": "Coelidiinae",
+    "tribu": "Teruliini",
+    "especies": [
+      {
+        "especie": "Docalidia bistyla",
+        "autor": "Nielson, 1979",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Docalidia colombiensis",
+        "autor": "Nielson, 1979",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Docalidia filamenta",
+        "autor": "Nielson, 1992",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Docalidia gracilis ",
+        "autor": "Nielson, 1979",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Docalidia insolita",
+        "autor": "Nielson, 1979",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Docalidia multidentata",
+        "autor": "Nielson, 1982",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Docalidia oreillyi",
+        "autor": "Nielson, 1979",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Docalidia permagna",
+        "autor": "Nielson, 1982",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Docalidia pudica",
+        "autor": "Nielson, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Docalidia pusilla",
+        "autor": "Linnavuori, 1956",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Docalidia trianugulata",
+        "autor": "Nielson, 1982",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Docalidia triplehorni",
+        "autor": "Nielson, 1979",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Docalidia truncata",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+      "jikradia": {
+    "subfamilia": "Coelidiinae",
+    "tribu": "Teruliini",
+    "especies": [
+      {
+        "especie": "Jikradia galapagonensis",
+        "autor": "Osborn, 1924",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+      "licontinia": {
+    "subfamilia": "Coelidiinae",
+    "tribu": "Teruliini",
+    "especies": [
+      {
+        "especie": "Licontinia elegans",
+        "autor": "Spångberg, 1879",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Licontinia implicata",
+        "autor": "Nielson, 1979",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Licontinia introducens",
+        "autor": "Walker, 1858",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+      "paracarinolidia": {
+    "subfamilia": "Coelidiinae",
+    "tribu": "Teruliini",
+    "especies": [
+      {
+        "especie": "Bolidiana aurata",
+        "autor": "Nielson, 1979",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+]
+      },
+      "terulia": {
+    "subfamilia": "Coelidiinae",
+    "tribu": "Teruliini",
+    "especies": [
+      {
+        "especie": "Terulia curvistyla",
+        "autor": "Linnavuori, 1956",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+      },
+       "pilosana": {
+    "subfamilia": "Coelidiinae",
+    "tribu": "Youngolidiini",
+    "especies": [
+      {
+        "especie": "Pilosana bifurcata",
+        "autor": "Nielson, 1983",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+      },
+       "youngolidia": {
+    "subfamilia": "Coelidiinae",
+    "tribu": "Youngolidiini",
+    "especies": [
+      {
+        "especie": "Youngolidia areata",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Youngolidia aviculifera",
+        "autor": "Nielson, 1992",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Youngolidia delta",
+        "autor": "Nielson, 1992",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Youngolidia lynnea",
+        "autor": "Nielson, 1983",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Youngolidia parallela",
+        "autor": "Linnavuori, 1956",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Youngolidia patruelis",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Youngolidia sordidula",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Youngolidia vittipennis",
+        "autor": "Spångberg, 1876",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+       } ,
+  "acinopterus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Acinopterini",
+    "especies": [
+      {
+        "especie": "Acinopterus angulatus",
+        "autor": "Lawson, 1983",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+      }
 
 
 
@@ -1577,20 +2448,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  }
+       }
