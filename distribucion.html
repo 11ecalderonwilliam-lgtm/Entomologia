@@ -1,12 +1,14 @@
 <!DOCTYPE html>
 <html lang="es">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>Distribución de Cicadellidae–Colombia y Región Neotropical</title>
 
-  <meta name="description" content="Distribución geográfica de la familia Cicadellidae en Colombia, la región Neotropical y el mundo.">
+  <meta name="description"
+    content="Distribución geográfica de la familia Cicadellidae en Colombia, la región Neotropical y el mundo.">
   <meta name="keywords" content="Cicadellidae, distribución geográfica, biogeografía, Colombia">
   <meta name="author" content="William Felipe Calderón Durán">
 
@@ -14,10 +16,7 @@
   <link rel="icon" href="img/Cicadellidae.ico">
 
   <!-- Leaflet CSS -->
-  <link
-    rel="stylesheet"
-    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-  />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
 
   <!-- ALTURA DEL MAPA (OBLIGATORIO) -->
   <style>
@@ -31,77 +30,75 @@
 </head>
 
 <body>
+  <div class="contenedor">
 
-<header class="hero">
-  <div class="hero-text">
-    <h1>Cicadellidae</h1>
-    <p>Distribución geográfica</p>
+    <!-- BOTÓN -->
+    <a href="index.html" class="boton">
+      ← Volver al inicio
+    </a>
+
+    <section class="info">
+      <h2>Distribución en Colombia</h2>
+      <p>
+        Colombia es uno de los países con mayor diversidad de <em>Cicadellidae</em>.
+      </p>
+    </section>
+    <!-- MAPA -->
+    <div id="mapa-colombia"></div>
+
+    <div class="volver-wrapper">
+      <a href="index.html" class="btn-volver">← Volver al inicio</a>
+    </div>
+
+    </main>
   </div>
-</header>
 
-<main class="contenedor">
 
-  <section class="info">
-    <h2>Distribución en Colombia</h2>
-    <p>
-      Colombia es uno de los países con mayor diversidad de <em>Cicadellidae</em>.
-    </p>
-  </section>
-
-  <!-- MAPA -->
-  <div id="mapa-colombia"></div>
-
-  <div class="volver-wrapper">
-    <a href="index.html" class="btn-volver">← Volver al inicio</a>
-  </div>
-
-</main>
-
-<footer class="footer-global">
+  <footer class="footer-global">
     <p>
       Proyecto académico – <em>Cicadellidae</em> – Universidad Nacional de Colombia<br>
       William Felipe Calderón Durán (Estudiante)– <br>
       Francisco Javier Serna Cardona (Profesor encargado)<br>
-      
+
     </p>
   </footer>
 
-<!-- Leaflet JS (UNA SOLA VEZ) -->
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <!-- Leaflet JS (UNA SOLA VEZ) -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
-<script>
-  // Crear mapa
-  const mapa = L.map('mapa-colombia').setView([4.5709, -74.2973], 6);
+  <script>
+    // Crear mapa
+    const mapa = L.map('mapa-colombia').setView([4.5709, -74.2973], 6);
 
-  // Capa base
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '© OpenStreetMap'
-  }).addTo(mapa);
+    // Capa base
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      attribution: '© OpenStreetMap'
+    }).addTo(mapa);
 
-  // Registros editables
-  const registros = [
-    {
+    // Registros editables
+    const registros = [
+      {
+        especie: "Cicadellinae sp.",
+        fecha: "2025-11-24",
+        localidad: "Bogotá, Cundinamarca",
+        lat: 4.636408104857779,
+        lon: -74.08867065972487,
+        imagen: "img/mapas/Cicadellinae1.jpg"
+      }
+    ];
+    registros.push({
       especie: "Cicadellinae sp.",
       fecha: "2025-11-24",
       localidad: "Bogotá, Cundinamarca",
-      lat: 4.636408104857779,
-      lon: -74.08867065972487,
-      imagen: "img/mapas/Cicadellinae1.jpg"
-    }
-  ];
-registros.push({
-  especie: "Cicadellinae sp.",
-  fecha: "2025-11-24",
-  localidad: "Bogotá, Cundinamarca",
-  lat: 4.636165947535943,
-  lon: -74.08835196713714
-});
+      lat: 4.636165947535943,
+      lon: -74.08835196713714
+    });
 
-  // Agregar puntos
- registros.forEach(r => {
-  L.marker([r.lat, r.lon])
-    .addTo(mapa)
-    .bindPopup(`
+    // Agregar puntos
+    registros.forEach(r => {
+      L.marker([r.lat, r.lon])
+        .addTo(mapa)
+        .bindPopup(`
       <div style="max-width:220px; text-align:center;">
         ${r.imagen ? `
           <img 
@@ -119,8 +116,9 @@ registros.push({
         <em>Fecha:</em> ${r.fecha}
       </div>
     `);
-});
-</script>
+    });
+  </script>
 
 </body>
+
 </html>

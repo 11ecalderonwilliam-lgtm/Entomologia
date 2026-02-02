@@ -56,9 +56,9 @@
         "especie": "Agallia soosi",
         "autor": "Linnavuori, 1956",
         "imageLink": "../img/generos/aguahua_salamandra.png"
-      }]},
-
-      
+      }
+      ]
+    }, 
   "agalliana": {
     "subfamilia": "Agalliinae",
     "especies": [
@@ -76,7 +76,9 @@
         "especie": "Agalliana stricticollis",
         "autor": "Stål, 1859",
         "imageLink": "../img/generos/aguahua_salamandra.png"
-      }]},
+      }
+      ]
+    },
 
      
   "agalliopsis": {
@@ -111,7 +113,9 @@
         "especie": "Agalliopsis vonella",
         "autor": "Oman, 1938",
         "imageLink": "../img/generos/aguahua_salamandra.png"
-      }]},
+      }
+      ]
+    },
 
       
   "agalliota": {
@@ -2433,20 +2437,666 @@
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
     ]
+  },
+  "bahita": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Bahita fratercula",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    ]
+  },
+   "bandara": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Bandara hyalina",
+        "autor": "Osborn, 1923",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+ "benibahita": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Benibahita furcillata",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "chlorotettix": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Chlorotettix dentatus",
+        "autor": "Zanol, 2001",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Chlorotettix fraterculus",
+        "autor": "Berg, 1879",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Chlorotettix grandis",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Chlorotettix minimus",
+        "autor": "Baker, 1898",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Chlorotettix nigromaculatus",
+        "autor": "DeLong & Wolcott, 1923",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Chlorotettix spiniloba",
+        "autor": "Linnavuori, 1968",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "colladonus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Colladonas ultimus",
+        "autor": "Nielson, 1988",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "exitianus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Exitianus atratus",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Exitianus quadratalus",
+        "autor": "Osborn, 1923",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "frequenamia": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Frequenamia crassistylus",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Frequenamia quadrinotata",
+        "autor": "DeLong, 1984",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Frequenamia reticulata",
+        "autor": "Osborn, 1924",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "ileopeltus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Ileopeltus blockeri",
+        "autor": "Cwikla, 1988",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Ileopeltus clavatus",
+        "autor": "Cwikla, 1988",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Ileopeltus tethys",
+        "autor": "Van Duzee, 1907",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "mattogrossus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Mattogrossus andinence",
+        "autor": "Freytag, 1986",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Mattogrossus colonoides",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "menosoma": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Menosoma cincta",
+        "autor": "Osborn & Ball, 1898",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Menosoma elegans",
+        "autor": "Osborn, 1923",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "mocoa": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Mocoa elegans",
+        "autor": "Linnavuori & DeLong, 1978",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "ollarianus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Ollarianus sexmaculatus",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "parabahita": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Parabahita armata",
+        "autor": "Linnavuori & DeLong, 1978",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Parabahita palmirensis",
+        "autor": "Linnavuori, 1968",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "paratanus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Paratanus yusti",
+        "autor": "Young, 1957",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "scaphoidula": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Scaphoidula incisa",
+        "autor": "Oman, 1937",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "stirellus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Stirellus bicolor",
+        "autor": "Van Duzee, 1892",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Stirellus picinus",
+        "autor": "Berg, 1879",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "tubulanus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Athysanini",
+    "especies": [
+      {
+        "especie": "Tubulanus cineratus",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+"balclutha": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Balcluthini",
+    "especies": [
+      {
+        "especie": "Balclutha diluta",
+        "autor": "Blocker, 1967",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Balclutha fumida",
+        "autor": "Linnavuori, 1968",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Balclutha incisa",
+        "autor": "Matsumura, 1902",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Balclutha incompta",
+        "autor": "Blocker, 1967",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Balclutha lineata",
+        "autor": "Osborn, 1925",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Balclutha lucida",
+        "autor": "Butler, 1877",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Balclutha punctata",
+        "autor": "Fabricius, 1775",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Balclutha rosea",
+        "autor": "Scott, 1876",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Balclutha saltuella",
+        "autor": "Kischbaum, 1868",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+ "amplicephalus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Deltocephalini",
+    "especies": [
+      {
+        "especie": "Amplicephalus fasciatus",
+        "autor": "Osborn, 1900",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Amplicephalus funzaensis",
+        "autor": "Linnavuori, 1968",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Amplicephalus glaucus",
+        "autor": "Blanchard, 1852",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Amplicephalus isis",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "deltocephalus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Deltocephalini",
+    "especies": [
+      {
+        "especie": "Deltocephalus nigripennis",
+        "autor": "DeLong, 1924",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+"graminella": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Deltocephalini",
+    "especies": [
+      {
+        "especie": "Graminella bipunctella",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Graminella cognita",
+        "autor": "Caldwell, 1952",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Graminella expanda",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Graminella lambda",
+        "autor": "Kramer, 1965",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Graminella punctata",
+        "autor": "Caldwell, 1952",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Graminella puncticeps",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Graminella sonora",
+        "autor": "Ball, 1900",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Graminella striatella",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    
+    ]
+  },
+"haldorus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Deltocephalini",
+    "especies": [
+      {
+        "especie": "Haldorus australis",
+        "autor": "DeLong, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Haldorus ruppeli",
+        "autor": "Linnavuori, 1968",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+"planicephalus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Deltocephalini",
+    "especies": [
+      {
+        "especie": "Planicephalus flavicosta",
+        "autor": "Stål, 1860",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+"unerus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Deltocephalini",
+    "especies": [
+      {
+        "especie": "Unerus colonus",
+        "autor": "Uhler, 1895",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+"spangbergiella": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Hecalini",
+    "especies": [
+      {
+        "especie": "Spangbergiella vulnerata",
+        "autor": "Uhler, 1877",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+"alebranus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Macrostelini",
+    "especies": [
+      {
+        "especie": "Alebranus cordifer",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "cicadulina": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Macrostelini",
+    "especies": [
+      {
+        "especie": "Cicadulina tortilla",
+        "autor": "Caldwell, 1952",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "dalbulus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Macrostelini",
+    "especies": [
+      {
+        "especie": "Dalbulus maidis",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "macrosteles": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Macrostelini",
+    "especies": [
+      {
+        "especie": "Macrosteles fascifron",
+        "autor": "Stål, 1859",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "osbornellus": {
+    "subfamilia": "Deltocephalinae",
+    "tribu": "Scaphoideini",
+    "especies": [
+      {
+        "especie": "Osbornellus affinis",
+        "autor": "Osborn, 1923",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Osbornellus compressus",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Osbornellus ecuadoricus",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Osbornellus fulvomaculatus",
+        "autor": "Osborn, 1923",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+"acuera": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Acuera menaca",
+        "autor": "DeLong & Freytag, 1974",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "acuponana": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Acuponana enera",
+        "autor": "DeLong & Freytag, 1974",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Acuponana fera",
+        "autor": "DeLong & Freytag, 1974",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "acusana": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Acusana pulchra",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+        {
+        "especie": "Acusana vitticollis",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "angucephala": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Angucephala mellana",
+        "autor": "DeLong & Freytag, 1974",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "Barbatana": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Barbatana confusa",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Barbatana lecta",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Barbatana sagula",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "carnoseta": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Carnoseta colomella",
+        "autor": "DeLong, 1981",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "chloronana": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Chloronana celsa",
+        "autor": "DeLong & Freytag, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Chloronana extenda",
+        "autor": "DeLong, 1859",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Chloronana pallenta",
+        "autor": "DeLong & Freytag, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "costanana": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Costanana flavina",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Costanana helvacosta",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Costanana minuta",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "culumana": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Culumana vitta",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "curtara": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Macrosteles fascifron",
+        "autor": "DeLong & Freytag, 1976",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  }
        }
