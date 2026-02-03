@@ -3003,7 +3003,7 @@
       }
     ]
   },
-  "Barbatana": {
+  "barbatana": {
     "subfamilia": "Gyponinae",
     "tribu": "",
     "especies": [
@@ -3093,8 +3093,1035 @@
     "tribu": "",
     "especies": [
       {
-        "especie": "Macrosteles fascifron",
+        "especie": "Curtara aurvita",
         "autor": "DeLong & Freytag, 1976",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Curtara concava",
+        "autor": "DeLong & Freytag, 1976",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Curtara congana",
+        "autor": "DeLong, 1980",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Curtara cruciata",
+        "autor": "DeLong & Freytag, 1976",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Curtara curvita",
+        "autor": "DeLong & Freytag, 1976",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Curtara dendrilla",
+        "autor": "DeLong & Freytag, 1976",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Curtara gera",
+        "autor": "DeLong & Freytag, 1976",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Curtara retusa",
+        "autor": "DeLong, 1983",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Curtara vestiga",
+        "autor": "DeLong & Freytag, 1976",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Curtara exesa",
+        "autor": "DeLong, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Curtara apicata",
+        "autor": "DeLong & Freytag, 1976",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Curtara mystica",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Curtara filana",
+        "autor": "DeLong & Freytag, 1976",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Curtara retusa",
+        "autor": "DeLong & Freytag, 1976",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Curtara pilosa",
+        "autor": "DeLong & Freytag, 1976",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Curtara punctata",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "doradana": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Doradana lativentris",
+        "autor": "Melichar, 1902",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "fuminana": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Fuminana extata",
+        "autor": "Freytag, 1989",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Fuminana ingula",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Fuminana lira",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+       {
+        "especie": "Fuminana superba",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "gypona": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Gypona assimilis",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+{
+        "especie": "Gypona axena",
+        "autor": "DeLong & Freytag, 1975",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona berela",
+        "autor": "DeLong & Freytag, 1975",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona brevipennis",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona cerea",
+        "autor": "DeLong & Freytag, 1962",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona kjellanderi",
+        "autor": "DeLong & Freytag, 1962",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona nigromedia",
+        "autor": "DeLong & Freytag, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona postica",
+        "autor": "Walker, 1858",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona signifera",
+        "autor": "DeLong & Freytag, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona splendidula",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona stylata",
+        "autor": "DeLong & Freytag, 1962",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona viridirufa",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona abdominalis",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona acuminata",
+        "autor": "DeLong & Freytag, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona albicans",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona aromata",
+        "autor": "DeLong, 1980",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona arunda",
+        "autor": "DeLong & Freytag, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona aurifera",
+        "autor": "Osborn, 1938",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona bisulca",
+        "autor": "DeLong & Freytag, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona blantoni",
+        "autor": "DeLong & Kolbe, 1974",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona bogotana",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona brachycephala",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona concolor",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona denera",
+        "autor": "DeLong & Kolbe, 1975",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona esca",
+        "autor": "DeLong & Freytag, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona exacuta",
+        "autor": "DeLong & Freytag, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona fervens",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona fina",
+        "autor": "DeLong & Freytag, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona fulvanota",
+        "autor": "DeLong, 1983",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona gibbiceps",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona hiata",
+        "autor": "DeLong & Freytag, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona obscurior",
+        "autor": "Fowler, 1903",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona rahra",
+        "autor": "DeLong, 1980",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona rectara",
+        "autor": "DeLong, 1980",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona rena",
+        "autor": "DeLong & Freytag, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona sarmenta",
+        "autor": "DeLong, 1980",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona splendidula",
+        "autor": "Spangberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona targa",
+        "autor": "DeLong & Freytag, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona uncincta",
+        "autor": "DeLong, 1980",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona varians",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona villica",
+        "autor": "DeLong & Freytag, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Gypona thoracica",
+        "autor": "Fabricius, 1803",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+       ]
+       },
+  "hecalapona": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Hecalapona angera",
+        "autor": "DeLong & Freytag, 1975",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+{
+        "especie": "Hecalapona dumosa",
+        "autor": "DeLong & Freytag, 1975",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Hecalapona narisa",
+        "autor": "DeLong & Freytag, 1977",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Hecalapona quadrella",
+        "autor": "DeLong & Freytag, 1975",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Hecalapona rostella",
+        "autor": "DeLong & Freytag, 1975",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },  
+  "polana": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Polana lativentris",
+        "autor": "Fowler, 1903",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana alia",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana ardua",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana bohemani",
+        "autor": "Stål, 1864",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana celsa",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana chelata",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana elabora",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana resilara",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana resupina",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana scela",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana bruneola",
+        "autor": "Osborn, 1938",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana dispara",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana plumea",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana quatra",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana aneza",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana celata",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana fina",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana lativentris",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana nisa",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana obtusa",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana pressa",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana quadrina",
+        "autor": "DeLong, 1979",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana rixa",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana scina",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana elera",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana aspersa",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana inimica",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana merga",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana nidula",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana optata",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana pensa",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana ruppeli",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana spindella",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana unca",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana santana",
+        "autor": "DeLong & Foster, 1982",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana truncata",
+        "autor": "DeLong & Freytag, 1972",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Polana lamina",
+        "autor": "DeLong, 1979",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },   
+  "ponanella": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Ponanella ena",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Ponanella felera",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Ponanella surcula",
+        "autor": "DeLong & Bush, 1971",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Ponanella woldai",
+        "autor": "DeLong, 1982",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Ponanella corona",
+        "autor": "DeLong & Freytag, 1975",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "regalana": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Regalana corona",
+        "autor": "DeLong & Freytag, 1975",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "scaris": {
+    "subfamilia": "Gyponinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Scaris affinula",
+        "autor": "Osborn, 1938",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris bipunctata",
+        "autor": "Walker, 1858",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris cabella",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris crinatana",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris decorata",
+        "autor": "Fowler, 1903",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris excerta",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris fervida",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris flavella",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris laticephalus",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris marmorata",
+        "autor": "Spångberg, 1878",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris minima",
+        "autor": "DeLong & Freytag, 1982",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris phaios",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris sanguinosa",
+        "autor": "Walker, 1858",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris sida",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris sidera",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris trifaciata",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris ultra",
+        "autor": "DeLong & Freytag, 1969",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris unita",
+        "autor": "DeLong & Freytag, 1982",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaris vagans",
+        "autor": "DeLong & Freytag, 1982",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+"bertawolia": {
+    "subfamilia": "Iassinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Bertawolia rhebala",
+        "autor": "Blocker, 1979",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "derakandra": {
+    "subfamilia": "Iassinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Derakandra matura",
+        "autor": "Blocker, 1979",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "momoria": {
+    "subfamilia": "Iassinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Momoria clarkei",
+        "autor": "Blocker, 1979",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Momoria divisa",
+        "autor": "Stål, 1862",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Momoria embola",
+        "autor": "Blocker, 1979",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "pachyopsis": {
+    "subfamilia": "Iassinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Pachyopsis nomanis",
+        "autor": "Blocker, 1983",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "penestragania": {
+    "subfamilia": "Iassinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Penestragania confusa",
+        "autor": "Linnavuori, 1956",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Penestragania lavanga",
+        "autor": "Blocker, 1979",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+    "scaroidana": {
+    "subfamilia": "Iassinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Scaroidana fulvula",
+        "autor": "Osborn, 1938",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Scaroidana xouthe",
+        "autor": "Kramer, 1963",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "ledra": {
+    "subfamilia": "Ledrinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Ledra episcopalis",
+        "autor": "Walker, 1851",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "Proranus": {
+    "subfamilia": "Ledrinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Proranus adspersipennis",
+        "autor": "Stål, 1962",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Proranus ghilianii",
+        "autor": "Spinola, 1850",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "xerophloea": {
+    "subfamilia": "Ledrinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Xerophloea viridis",
+        "autor": "Fabricius, 1794",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "neopsis": {
+    "subfamilia": "Macropsinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Neopsis robusta",
+        "autor": "Linnavuori, 1965",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "calliscarta": {
+    "subfamilia": "Neobalinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Calliscarta acuta",
+        "autor": "Freytag, 1988",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Calliscarta boliviana",
+        "autor": "Osborn, 1929",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Calliscarta columbiana",
+        "autor": "Nast, 1952",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Calliscarta decora",
+        "autor": "Fabricius, 1803",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Calliscarta ornata",
+        "autor": "Freytag, 1988",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Calliscarta stigmata",
+        "autor": "Nast, 1952",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "biza": {
+    "subfamilia": "Neocoelidinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Biza craspa",
+        "autor": "Kramer, 1962",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "chinaia": {
+    "subfamilia": "Neocoelidinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Chinaia ornata",
+        "autor": "Osborn, 1924",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+    "chinchinota": {
+    "subfamilia": "Neocoelidinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Chinchinota styx",
+        "autor": "Kramer, 1967",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "coelidiana": {
+    "subfamilia": "Neocoelidinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Coelidiana bidentata",
+        "autor": "DeLong, 1953",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+{
+        "especie": "Coelidiana rubrolinata",
+        "autor": "Baker, 1898",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Coelidiana spina",
+        "autor": "DeLong, 1953",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+    "coelindroma": {
+    "subfamilia": "Neocoelidinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Coelindroma fungosa",
+        "autor": "Kramer, 1967",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "nelidina": {
+    "subfamilia": "Neocoelidinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Nelidina taeniola",
+        "autor": "Kramer, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "neocoelidia": {
+    "subfamilia": "Neocoelidinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Neocoelidia crenulata",
+        "autor": "Osborn, 1923",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Neocoelidia fuscodorsata",
+        "autor": "Fowler, 1894",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "trichocoelidia": {
+    "subfamilia": "Neocoelidinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Trichocoelidia clarkei",
+        "autor": "Kramer, 1962",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "xenocoelidia": {
+    "subfamilia": "Neocoelidinae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Xenocoelidia colombiana",
+        "autor": "Kramer, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Xenocoelidia youngi",
+        "autor": "Kramer, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "columbonirvana": {
+    "subfamilia": "Nirvaninae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "columbonirvana aurea",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "neonirvana": {
+    "subfamilia": "Nirvaninae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Neonirvana hyalina",
+        "autor": "Oman, 1936",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "pentoffia": {
+    "subfamilia": "Nirvaninae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Pentoffia nivata",
+        "autor": "Kramer, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "tahura": {
+    "subfamilia": "Nirvaninae",
+    "tribu": "",
+    "especies": [
+      {
+        "especie": "Tahura fowleri",
+        "autor": "Kramer, 1976",
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
     ]
