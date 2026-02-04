@@ -4125,5 +4125,465 @@
         "imageLink": "../img/generos/acrulogonia_punctata.png"
       }
     ]
+  },
+  "albera": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Alebrini",
+    "especies": [
+      {
+        "especie": "Albera picea",
+        "autor": "Osborn, 1928",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+"balera": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Alebrini",
+    "especies": [
+      {
+        "especie": "Balera bracata",
+        "autor": "Ruppel, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Balera caraquatae",
+        "autor": "Young, 1957",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Balera ecuadora",
+        "autor": "Freytag, 1992",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Balera napoensis",
+        "autor": "Freytag, 1992",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+"elabra": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Alebrini",
+    "especies": [
+      {
+        "especie": "Elabra aureovittatus",
+        "autor": "DeLong, 1923",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Elabra parallela",
+        "autor": "Osborn, 1928",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+"hadralebra": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Alebrini",
+    "especies": [
+      {
+        "especie": "Hadralebra cabezuda",
+        "autor": "Ruppel, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "habralebra": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Alebrini",
+    "especies": [
+      {
+        "especie": "Habralebra panamensis",
+        "autor": "Young, 1957",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "lawsonellus": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Alebrini",
+    "especies": [
+      {
+        "especie": "Lawsonellus attenuatus",
+        "autor": "Osborn, 1928",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+ "omegalebra": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Alebrini",
+    "especies": [
+      {
+        "especie": "Omegalebra matogrossana",
+        "autor": "Young, 1957",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "orsalebra": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Alebrini",
+    "especies": [
+      {
+        "especie": "Orsalebra ampliuscula",
+        "autor": "Ruppel, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "osbornulus": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Alebrini",
+    "especies": [
+      {
+        "especie": "Osbornulus quadrifasciatus",
+        "autor": "Osborn, 1928",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+"paralebra": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Alebrini",
+    "especies": [
+      {
+        "especie": "Paralebra kieferi",
+        "autor": "Baker, 1899",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+     {
+        "especie": "Paralebra ninettae",
+        "autor": "Baker, 1899",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Paralebra similis",
+        "autor": "Baker, 1899",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      } 
+    ]
+  },
+ "protalebra": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Alebrini",
+    "especies": [
+      {
+        "especie": "Protalebra curvilinea",
+        "autor": "Gillette, 1898",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+"protalebrella": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Alebrini",
+    "especies": [
+      {
+        "especie": "Protalebrella brasiliensis",
+        "autor": "Baker, 1899",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Protalebrella conica",
+        "autor": "Ruppel & DeLong, 1899",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Protalebrella terminata",
+        "autor": "Baker, 1899",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+"rhabdotalebra": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Alebrini",
+    "especies": [
+      {
+        "especie": "Rhabdotalebra colorata",
+        "autor": "Young, 1957",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+{
+        "especie": "Rhabdotalebra octolineata",
+        "autor": "Baker, 1903",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Rhabdotalebra plummeri",
+        "autor": "Ruppel & DeLong, 1953",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Rhabdotalebra signata",
+        "autor": "McAtee, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+"trypanalebra": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Alebrini",
+    "especies": [
+      {
+        "especie": "Trypanalebra blantoni",
+        "autor": "Young, 1957",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Trypanalebra maculata",
+        "autor": "Baker, 1903",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Trypanalebra ziczag",
+        "autor": "Osborn, 1929",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "alconeura": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Dikraneurini",
+    "especies": [
+      {
+        "especie": "Alconeura lyraforma",
+        "autor": "Ruppel, 1966",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "dikrella": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Dikraneurini",
+    "especies": [
+      {
+        "especie": "Dikrella affinis",
+        "autor": "Osborn, 1928",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Dikrella avicula",
+        "autor": "Ruppel, 1966",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Dikrella cockerelli",
+        "autor": "Gillette, 1895",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "donidea": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Dikraneurini",
+    "especies": [
+      {
+        "especie": "Donidea verticis",
+        "autor": "Baker, 1903",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "parallaxis": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Dikraneurini",
+    "especies": [
+      {
+        "especie": "Parallaxis colorata",
+        "autor": "Linnavuori, 1954",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Parallaxis donaldsoni",
+        "autor": "Baker, 1903",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Parallaxis guzmani",
+        "autor": "Baker, 1903",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Parallaxis ornata",
+        "autor": "Osborn, 1928",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Parallaxis vacillans",
+        "autor": "McAtee, 1926",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "typhlocybella": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Dikraneurini",
+    "especies": [
+      {
+        "especie": "Typhlocybella minima",
+        "autor": "Baker, 1903",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+   "youngszella": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Dikraneurini",
+    "especies": [
+      {
+        "especie": "Youngszella pseudomarginella",
+        "autor": "Caldwell, 1952",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "empoasca": {
+    "subfamilia": "Typhlocybinae",
+    "tribu": "Empoascini",
+    "especies": [
+      {
+        "especie": "Empoasca antioquinae",
+        "autor": "Davidson & DeLong, 1956",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Empoasca bispinata",
+        "autor": "Davidson & DeLong, 1956",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Empoasca canda",
+        "autor": "Ross & Moore, 1957",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Empoasca cavanalia",
+        "autor": "DeLong, 1932",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Empoasca fabalis",
+        "autor": "DeLong, 1930",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Empoasca krameri",
+        "autor": "Ross & Moore, 1957",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Empoasca papae",
+        "autor": "Ruppel & DeLong, 1956",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Empoasca prona",
+        "autor": "Ruppel & DeLong, 1940",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Empoasca scinda",
+        "autor": "Ruppel & DeLong, 1956",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Empoasca zapoides",
+        "autor": "Ross, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "portanus": {
+    "subfamilia": "Xestocephalinae",
+    "tribu": "Portanini",
+    "especies": [
+      {
+        "especie": "Portanus avis",
+        "autor": "DeLong, 1980",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+{
+        "especie": "Portanus chelatus",
+        "autor": "DeLong, 1980",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+
+      {
+        "especie": "Portanus eburatus",
+        "autor": "Kramer, 1964",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+
+      {
+        "especie": "Portanus elegans",
+        "autor": "Kramer, 1961",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+
+      {
+        "especie": "Portanus facetus",
+        "autor": "Kramer, 1961",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+
+      {
+        "especie": "Portanus hasemani",
+        "autor": "Kramer, 1961",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+
+      {
+        "especie": "Portanus major",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+
+      {
+        "especie": "Portanus pulchellus",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+
+      {
+        "especie": "Portanus tesselatus",
+        "autor": "Osborn, 1909",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
+  },
+  "xestocephalus": {
+    "subfamilia": "Xestocephalinae",
+    "tribu": "Xestocephalini",
+    "especies": [
+      {
+        "especie": "Xestocephalus albopunctatus",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Xestocephalus ancorifer",
+        "autor": "Linnavuori, 1959",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Xestocephalus desertorum",
+        "autor": "Berg, 1879",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Xestocephalus irroratus",
+        "autor": "Osborn, 1924",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      },
+      {
+        "especie": "Xestocephalus tessellatus",
+        "autor": "Van Duzee, 1894",
+        "imageLink": "../img/generos/acrulogonia_punctata.png"
+      }
+    ]
   }
        }
