@@ -583,5 +583,57 @@ max-height: 610px;
   left: -9999px;
 }
 
+/* =========================
+   CLAVE DICOTÓMICA
+   ========================= */
+
+.bloque-info {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 20px 25px;
+  margin: 30px 0;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
+
+.titulo-info {
+  font-size: 18px;
+  color: #2f4f2f;
+  margin-bottom: 15px;
+}
+
+.paso-clave {
+  font-family: "Georgia", serif;
+  font-size: 16px;
+  margin: 10px 0;
+  white-space: nowrap;
+}
+
+.paso-clave a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #1e6b3a;
+}
+
+.paso-clave a:hover {
+  text-decoration: underline;
+}
+
+.titulo-tribu {
+  font-size: 17px;
+  margin-bottom: 10px;
+}
+
+.volver-clave {
+  margin-top: 15px;
+  font-size: 14px;
+}
+.bloque-info,
+.paso-clave {
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: normal;
+  white-space: normal;
+}
 
 }
